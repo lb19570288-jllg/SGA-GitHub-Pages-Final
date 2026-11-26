@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T07:36:11.957455+00:00",
+  "updated_at": "2026-11-26T07:54:07.750772+00:00",
   "editorial_day": "2026-11-26",
   "items": [
     {
@@ -131,6 +131,22 @@
       "period": "semana"
     },
     {
+      "title": "QEH se mueve para restaurar la capacidad quirúrgica en medio de demoras",
+      "title_original": "QEH moves to restore surgical capacity amid delays",
+      "url": "https://barbadostoday.bb/2026/10/27/qeh-moves-to-restore-surgical-capacity-amid-delays/",
+      "date": "2026-10-27T15:10:29+00:00",
+      "medium": "Barbados Today",
+      "country": "Barbados",
+      "code": "BB",
+      "type": "national",
+      "color": "#B45F45",
+      "image": "flags_news/BB.webp",
+      "score": 3,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "bimestre"
+    },
+    {
       "title": "Comentario sobre el presidente de DAEC llama a los líderes de la iglesia a proteger contra la división política antes de la elección general por el Señor Ayúdanos",
       "title_original": "Comment on DAEC president calls on church leaders to guard against political division ahead of general election by Lord Help Us",
       "url": "https://dominicanewsonline.com/news/homepage/homepage-carousel/daec-president-calls-on-church-leaders-to-guard-against-political-division-ahead-of-general-election/",
@@ -163,7 +179,7 @@
       "period": "quincena"
     },
     {
-      "title": "Carrera por la Esperanza procede a apoyar la restauración de Hope Gardens – Jamaica Gleaner",
+      "title": "Carrera por la esperanza procede a apoyar la restauración de Hope Gardens – Jamaica Gleaner",
       "title_original": "Race for Hope proceeds to support Hope Gardens restoration – Jamaica Gleaner",
       "url": "https://jamentrust.org/race-for-hope-proceeds-to-support-hope-gardens-restoration-jamaica-gleaner/",
       "date": "2026-11-13T11:32:03+00:00",
@@ -211,10 +227,10 @@
       "period": "quincena"
     },
     {
-      "title": "Avances del proyecto sobre la genómica de Santa Lucía para proteger la biodiversidad local",
-      "title_original": "Saint Lucia genomics project advances in bid to protect local biodiversity",
-      "url": "https://stluciatimes.com/185964/2026/11/saint-lucia-genomics-project-advances-in-bid-to-protect-local-biodiversity/",
-      "date": "2026-11-18T19:57:20+00:00",
+      "title": "Chastanet para recibir CMEx Lifetime Achievement Award",
+      "title_original": "Chastanet to receive CMEx Lifetime Achievement Award",
+      "url": "https://stluciatimes.com/186045/2026/11/chastanet-to-receive-cmex-lifetime-achievement-award/",
+      "date": "2026-11-22T17:43:02+00:00",
       "medium": "St. Lucia Times",
       "country": "Santa Lucía",
       "code": "LC",
@@ -224,7 +240,23 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "quincena"
+      "period": "semana"
+    },
+    {
+      "title": "Signo esperanzador para los arrecifes de Granadinas como raro coral escalonado encontrado en Battowia – iWitness News",
+      "title_original": "Hopeful sign for Grenadines reefs as rare staghorn coral found off Battowia – iWitness News",
+      "url": "https://www.iwnsvg.com/2026/08/27/hopeful-sign-for-grenadines-reefs-as-rare-staghorn-coral-found-off-battowia/",
+      "date": "2026-08-27T15:22:56+00:00",
+      "medium": "iWitness News",
+      "country": "San Vicente y las Granadinas",
+      "code": "VC",
+      "type": "national",
+      "color": "#353535",
+      "image": "flags_news/VC.webp",
+      "score": 2,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "cuatrimestre"
     },
     {
       "title": "¿Vamos a proponer? Una invitación del Congreso Mundial de Conservación",
@@ -451,7 +483,7 @@
       "period": "mes"
     },
     {
-      "title": "Cooperativa de vivienda: tercer intento de resurgir el edificio de precio regulado de Terra Vella en Andorra la Vella",
+      "title": "Cooperativa de vivienda: tercer intento de resurreccionar el edificio regulado de Terra Vella en Andorra la Vella",
       "title_original": "Cooperativa d'habitatge: tercer intent per ressuscitar l’edifici de pisos a preu regulat de Terra Vella, a Andorra la Vella",
       "url": "https://www.diariandorra.ad/parroquies/261110/tercer-intent-per-ressuscitar-l-edifici-pisos-preu-regulat-terra-vella_208416.html",
       "date": "2026-11-10T04:26:48+00:00",
@@ -483,7 +515,7 @@
       "period": "semana"
     },
     {
-      "title": "Quién μερίδα για τgiaν κρατατικικёαρωγ κα τćν αποκατστστασgia μετλ από φνισικρος κατασροδασρος",
+      "title": "Quién μερίδα για τćν κρατατατασĆ μετσδικαν καδσν ιρσγσιγσν καρσν τασν από φνισικρς κατασαστασροδς",
       "title_original": "Ημερίδα για την κρατική αρωγή και την αποκατάσταση μετά από φυσικές καταστροφές",
       "url": "https://greenagenda.gr/imerida-gia-tin-kratiki-arogi-kai-tin-apokatastasi-meta-apo-fysikes-katastrofes/",
       "date": "2026-11-24T21:57:26+00:00",
@@ -547,7 +579,7 @@
       "period": "semana"
     },
     {
-      "title": "Plaza Alejandro Albuquerque será restaurada",
+      "title": "Plaza Alexandre Albuquerque será restaurada",
       "title_original": "​Praça Alexandre Albuquerque será restaurada",
       "url": "https://expressodasilhas.cv/pais/2026/11/25/praca-alexandre-albuquerque-sera-restaurada/105692",
       "date": "2026-11-25T15:20:29+00:00",
@@ -595,7 +627,7 @@
       "period": "cuatrimestre"
     },
     {
-      "title": "Comentario en Déficit de formación mental libra afirmación de jugadores guineanos en Europa, defiende la Academia Vitalaise por Mamadú N’Bola di Bolanha",
+      "title": "Comentario en Déficit de formación mental libra afirmación de jugadores guineanos en Europa, defiende Academia Vitalaise por Mamadú N’Bola di Bolanha",
       "title_original": "Comentário em Déficit de formação mental trava afirmação de jogadores guineenses na Europa, defende Academia Vitalaise por Mamadú N’Bola di Bolanha",
       "url": "https://www.odemocratagb.com/?p=59891",
       "date": "2026-11-10T11:38:34+00:00",
