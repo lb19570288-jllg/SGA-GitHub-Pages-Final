@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aviso de privacidad integral del Sistema de Gestión Ambiental del Instituto Tecnológico de Álvaro Obregón.">
+  <title>Aviso de privacidad | SGA · TecNM ITAO</title>
+  <link href="../css/styles.css" rel="stylesheet">
+  <link href="../css/uiux-global.css" rel="stylesheet">
+  <style>
+    #privacidad-sga { --azul: #1b396a; --gris: #807e82; --tinta: #263449; --linea: #dce2ea; font-family: 'Noto Sans', Arial, sans-serif; color: var(--tinta); background: #f4f6f9; line-height: 1.75; overflow-wrap: anywhere; }
+    #privacidad-sga * { box-sizing: border-box; }
+    #privacidad-sga .ap-wrap { max-width: 1180px; margin: auto; padding: 0 24px; }
+    /* Fotografía proporcionada para el encabezado del aviso integral. */
+    #privacidad-sga .ap-hero {
+      background-color: #142b50;
+      background-image:
+        linear-gradient(90deg, rgba(12, 30, 56, .98) 0%, rgba(16, 37, 70, .94) 43%, rgba(20, 44, 79, .68) 72%, rgba(19, 43, 77, .36) 100%),
+        url('../img/privacidad/sabg_sculture.jpg');
+      background-repeat: no-repeat, no-repeat;
+      background-size: cover, auto 280%;
+      background-position: center, right 52%;
+      color: white;
+      padding: 64px 0 52px;
+      border-bottom: 5px solid #807e82;
+    }
+    #privacidad-sga .ap-kicker { font-size: .78rem; letter-spacing: .13em; text-transform: uppercase; font-weight: 700; margin: 0 0 12px; }
+    #privacidad-sga .ap-hero h1 { font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.13; color: white; margin: 0 0 16px; }
+    #privacidad-sga .ap-hero p { max-width: 780px; margin: 8px 0; color: #e5edf8; }
+    #privacidad-sga .ap-layout { display: grid; grid-template-columns: 255px minmax(0, 1fr); gap: 32px; padding-top: 36px; padding-bottom: 64px; align-items: start; }
+    #privacidad-sga .ap-nav, #privacidad-sga .ap-document { background: white; border: 1px solid var(--linea); border-radius: 14px; }
+    #privacidad-sga .ap-nav { padding: 22px; position: sticky; top: 100px; }
+    #privacidad-sga .ap-nav a { display: block; padding: 7px 0; font-size: .88rem; text-decoration: none; }
+    #privacidad-sga a { color: var(--azul); text-decoration: underline; text-underline-offset: 3px; }
+    #privacidad-sga a:focus-visible, #privacidad-sga button:focus-visible { outline: 3px solid #b67b16; outline-offset: 4px; }
+    #privacidad-sga .ap-document { padding: clamp(20px, 4vw, 48px); }
+    /* El título del documento tiene tinta azul: solo el H1 del encabezado es blanco. */
+    #privacidad-sga .ap-document .ap-policy-title {
+      color: #1b396a;
+      font-family: 'Noto Sans', Arial, sans-serif;
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+      font-weight: 800;
+      line-height: 1.25;
+      text-align: center;
+      margin: 0 0 24px;
+    }
+    #privacidad-sga .ap-nota { border-left: 4px solid #a36c18; background: #fff8e9; padding: 16px 20px; margin-bottom: 28px; color: #654510; }
+    #privacidad-sga .ap-section { border-top: 1px solid var(--linea); padding: 24px 0; scroll-margin-top: 120px; }
+    #privacidad-sga h2 { font-size: 1.28rem; color: var(--azul); margin: 0 0 12px; line-height: 1.4; }
+    #privacidad-sga h3 { font-size: 1rem; color: var(--azul); margin: 18px 0 8px; }
+    #privacidad-sga p { margin: 0 0 12px; }
+    #privacidad-sga li { margin: 5px 0; }
+    #privacidad-sga .ap-meta { font-size: .85rem; color: #526176; }
+    #privacidad-sga .ap-button { display: inline-block; background: var(--azul); color: white; border: 0; border-radius: 7px; padding: 12px 18px; font: inherit; cursor: pointer; }
+    #privacidad-sga dl { display: grid; grid-template-columns: minmax(85px, 120px) 1fr; gap: 8px 16px; }
+    #privacidad-sga dt { font-weight: 700; color: var(--azul); }
+    #privacidad-sga dd { margin: 0; }
+    @media (max-width: 800px) {
+      #privacidad-sga .ap-layout { grid-template-columns: 1fr; }
+      #privacidad-sga .ap-nav { position: static; }
+      #privacidad-sga .ap-hero {
+        padding: 40px 0;
+        background-image:
+          linear-gradient(90deg, rgba(12, 30, 56, .97), rgba(16, 37, 70, .86) 65%, rgba(20, 44, 79, .72)),
+          url('../img/privacidad/sabg_sculture.jpg');
+        background-size: cover, auto 205%;
+        background-position: center, right 52%;
+      }
+    }
+
+    /* Tres accesos oficiales. Se usan las imágenes originales, no botones redibujados. */
+    #privacidad-sga .ap-referencias-oficiales {
+      grid-column: 2;
+      min-width: 0;
+      width: 100%;
+      margin: 0;
+      padding: 4px 12px clamp(20px, 4vw, 38px);
+      scroll-margin-top: 115px;
+    }
+    #privacidad-sga .ap-referencias-botones {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: clamp(14px, 4vw, 48px);
+    }
+    #privacidad-sga .ap-referencia-enlace {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: clamp(104px, 15vw, 158px);
+      height: clamp(104px, 15vw, 158px);
+      border-radius: 50%;
+      text-decoration: none;
+      transition: transform .2s ease, filter .2s ease;
+    }
+    #privacidad-sga .ap-referencia-enlace img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      filter: drop-shadow(0 8px 14px rgba(14, 35, 65, .16));
+    }
+    #privacidad-sga .ap-referencia-enlace:hover,
+    #privacidad-sga .ap-referencia-enlace:focus-visible {
+      transform: translateY(-4px);
+      filter: brightness(1.06);
+    }
+    @media (max-width: 800px) {
+      #privacidad-sga .ap-referencias-oficiales { grid-column: 1; }
+    }
+    @media (max-width: 480px) {
+      #privacidad-sga .ap-referencias-botones { gap: 10px; }
+      #privacidad-sga .ap-referencia-enlace { width: clamp(86px, 26vw, 115px); height: clamp(86px, 26vw, 115px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #privacidad-sga .ap-referencia-enlace { transition: none; }
+      #privacidad-sga .ap-referencia-enlace:hover { transform: none; }
+    }
+    @media print { #privacidad-sga .ap-referencias-oficiales { display: none !important; } #site-header, #site-footer, .skip-link, #privacidad-sga .ap-nav, #privacidad-sga .ap-button { display: none !important; } #privacidad-sga, #privacidad-sga .ap-hero { background: white; color: black; } #privacidad-sga h1, #privacidad-sga .ap-hero p { color: black; } #privacidad-sga .ap-layout { display: block; padding: 0; } #privacidad-sga .ap-document { border: 0; padding: 0; } #privacidad-sga h2 { break-after: avoid; } }
+  </style>
+</head>
+<body data-page="aviso-privacidad">
+  <a class="skip-link" href="#contenido-principal">Saltar al contenido principal</a>
+  <div id="site-header"></div>
+  <main id="contenido-principal">
+    <div id="privacidad-sga">
+      <header class="ap-hero">
+        <div class="ap-wrap">
+          <p class="ap-kicker">TECNOLÓGICO NACIONAL DE MÉXICO</p>
+          <h1>Aviso de Privacidad Integral</h1>
+          <p>Protección de Datos Personales, Responsabilidad Institucional y Participación Ambiental</p>
+        </div>
+      </header>
+      <div class="ap-wrap ap-layout">
+        <nav class="ap-nav" aria-label="Índice del aviso de privacidad">
+          <h2>Contenido</h2>
+          <a href="#responsable">Responsable</a>
+          <a href="#fundamento">Marco normativo</a>
+          <a href="#datos">Datos personales</a>
+          <a href="#finalidades">Finalidades</a>
+          <a href="#transferencias">Transferencias</a>
+          <a href="#seguridad">Seguridad y conservación</a>
+          <a href="#arco">Derechos ARCO</a>
+          <a href="#tecnologias">Tecnologías web</a>
+          <a href="#cambios">Actualizaciones</a>
+          <a href="#referencias">Referencias oficiales</a>
+        </nav>
+        <article class="ap-document" aria-label="Aviso de privacidad integral">
+          <h2 class="ap-policy-title">POLÍTICA DE DATOS</h2>
+          <div class="ap-nota"><strong>AVISO:</strong> Consulte las finalidades del tratamiento, las medidas de protección de su información y los mecanismos para ejercer sus derechos antes de utilizar los servicios digitales del Sistema de Gestión Ambiental (SGA).</div>
+          <p>El presente aviso informa sobre el tratamiento de datos personales asociado a los servicios digitales de contacto y participación del SGA, con el propósito de proteger a la comunidad tecnológica y a las personas que colaboran en actividades de gestión ambiental.</p>
+          <section class="ap-section" id="responsable">
+            <h2><center>IDENTIDAD DEL RESPONSABLE</center></h2>
+            <p>Se identifica al Tecnológico Nacional de México (TecNM), a través del Instituto Tecnológico de Álvaro Obregón (ITAO), como responsable institucional del tratamiento, con intervención de la unidad administrativa competente en materia de gestión ambiental.</p>
+            <p><strong>Domicilio del responsable y unidad administrativa:</strong> pendientes de confirmación institucional. Portal del plantel: <a href="https://aobregon.tecnm.mx/">aobregon.tecnm.mx</a>.</p>
+          </section>
+          <section class="ap-section" id="fundamento">
+            <h2><center>MARCO NORMATIVO</center></h2>
+            <p>El tratamiento deberá ajustarse a los artículos 6 y 16 de la Constitución Política de los Estados Unidos Mexicanos y a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, particularmente sus disposiciones sobre principios, información, seguridad y derechos ARCO.</p>
+            <p>La institución deberá precisar las atribuciones específicas del área que justifican cada tratamiento. La norma ISO 14001 constituye una referencia de gestión ambiental, no una autorización jurídica para recabar datos personales.</p>
+          </section>
+          <section class="ap-section" id="datos">
+            <h2><center>DATOS PERSONALES CÓMO OBJETO DE TRATAMIENTO</center></h2>
+            <dl>
+              <dt>Identificación</dt><dd>Nombre de la persona remitente.</dd>
+              <dt>Contacto</dt><dd>Dirección de correo electrónico.</dd>
+              <dt>Contenido</dt><dd>Descripción de la consulta, propuesta o actividad ambiental.</dd>
+              <dt>Evidencias</dt><dd>Imágenes opcionales aportadas por la persona remitente.</dd>
+            </dl>
+            <p>No se prevé solicitar datos sensibles. Evite adjuntar identificaciones oficiales, información médica o bancaria, fotografías de terceros sin autorización y archivos con datos innecesarios. Una fotografía puede revelar datos personales o sensibles; procure ocultar rostros, credenciales y otros identificadores.</p>
+          </section>
+          <section class="ap-section" id="finalidades">
+            <h2><center>FINALIDADES DE TRATAMIENTO</center></h2>
+            <h3>Finalidades operativas</h3>
+            <ul>
+              <li>Recibir, clasificar y atender consultas y sugerencias sobre el SGA.</li>
+              <li>Gestionar propuestas de participación y colaboración ambiental.</li>
+              <li>Dar seguimiento a solicitudes y comunicar respuestas.</li>
+              <li>Documentar actividades y producir estadísticas disociadas para la mejora continua.</li>
+            </ul>
+            <h3>Finalidades adicionales</h3>
+            <p>La difusión pública de nombres, testimonios o imágenes identificables no se considera necesaria para atender solicitudes. Si se realiza, deberá identificarse su finalidad y obtenerse el consentimiento específico cuando proceda, mediante un mecanismo separado que permita negarse antes de la difusión, sin afectar la atención principal.</p>
+            <p>El tratamiento se sujeta a los fundamentos y supuestos de consentimiento previstos en la legislación aplicable.</p>
+          </section>
+          <section class="ap-section" id="transferencias">
+            <h2><center>TRANSFERENCIAS Y REMISIONES</center></h2>
+            <p>El acceso debe limitarse al personal autorizado que intervenga en la atención del SGA. Las comunicaciones a otras autoridades deberán ajustarse a las atribuciones y excepciones legales aplicables. La comercialización de datos personales no forma parte de las finalidades descritas.</p>
+            <p>Para garantizar la transparencia deberán identificarse los destinatarios, proveedores de alojamiento y correo, eventuales transferencias nacionales o internacionales y sus fundamentos. Las transferencias que requieran consentimiento deberán informar previamente destinatarios, finalidad y mecanismo de negativa.</p>
+          </section>
+          <section class="ap-section" id="seguridad">
+            <h2><center>SEGURIDAD, CONSERVACIÓN Y SUPRESIÓN</center></h2>
+            <p>El diseño operativo deberá incorporar controles administrativos, físicos y técnicos proporcionales al riesgo: acceso por funciones, conexiones cifradas, validación de archivos, almacenamiento no público, gestión de respaldos y registro de accesos e incidentes.</p>
+            <p>Los datos deberán conservarse únicamente durante el plazo necesario y conforme a los instrumentos archivísticos y obligaciones aplicables. Una vez agotada su finalidad y los plazos correspondientes, procederá su bloqueo, supresión segura o conservación legal, según corresponda. Los plazos concretos y controles efectivamente implementados quedan sujetos a validación técnica e institucional.</p>
+          </section>
+          <section class="ap-section" id="arco">
+            <h2><center>DERECHOS ARCO Y MANIFESTACIÓN DE NEGATIVA</center></h2>
+            <dl>
+              <dt>Acceso</dt><dd>Conocer los datos personales tratados y sus condiciones de uso.</dd>
+              <dt>Rectificación</dt><dd>Solicitar la corrección de información inexacta o incompleta.</dd>
+              <dt>Cancelación</dt><dd>Solicitar la eliminación cuando legalmente proceda.</dd>
+              <dt>Oposición</dt><dd>Solicitar el cese del tratamiento en los supuestos aplicables.</dd>
+            </dl>
+            <p>Las solicitudes podrán encauzarse a la Unidad de Transparencia competente. El TecNM publica como referencia el contacto de la Unidad de Transparencia de la SEP: Donceles 100, colonia Centro, alcaldía Cuauhtémoc, C.P. 06000, Ciudad de México; teléfono 55 3601 1000, extensión 52411.</p>
+            <p>Consulte el <a href="https://www.tecnm.mx/?a=&amp;vista=Proteccion_Datos_Personales">apartado oficial de protección de datos del TecNM</a> y la <a href="https://www.plataformadetransparencia.org.mx/">Plataforma Nacional de Transparencia</a>. La institución deberá confirmar la unidad competente, sus canales vigentes, procedimiento de atención y mecanismo previo de negativa para finalidades adicionales y transferencias sujetas a consentimiento.</p>
+          </section>
+          <section class="ap-section" id="tecnologias">
+            <h2><center>TECNOLOGÍAS WEB Y SERVICIOS EXTERNOS</center></h2>
+            <p>El uso de cookies, almacenamiento local, registros de servidor, contenidos incrustados y servicios externos deberá verificarse mediante un inventario técnico del micrositio. Si se recopilan direcciones IP u otros identificadores, se informarán sus finalidades, conservación y mecanismos de control aplicables. Los enlaces externos podrán estar sujetos a avisos de privacidad propios.</p>
+          </section>
+          <section class="ap-section" id="cambios">
+            <h2><center>ACTUALIZACIONES VIGENTES</center></h2>
+            <p>Las modificaciones se comunicarán mediante esta misma página, indicando la versión, fecha de actualización y, cuando corresponda, el nuevo mecanismo de consentimiento. El aviso integral deberá estar disponible antes de recabar información y contar con su modalidad simplificada en los formularios.</p>
+          </section>
+        </article>
+        <!-- Referencias oficiales centradas justo debajo del documento (columna derecha). -->
+        <nav class="ap-referencias-oficiales" id="referencias" aria-label="Referencias oficiales y protección de datos personales">
+        <div class="ap-referencias-botones">
+          <a class="ap-referencia-enlace" href="https://sidof.segob.gob.mx/notas/docFuente/5752569"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="Consultar documento en el Diario Oficial de la Federación (se abre en otra pestaña)"
+             title="Diario Oficial de la Federación">
+            <img src="../img/privacidad/DOF_button.png" width="1000" height="1000"
+                 loading="lazy" alt="México, Presidencia de la República">
+          </a>
+          <a class="ap-referencia-enlace" href="https://www.tecnm.mx/?a=&amp;vista=Proteccion_Datos_Personales"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="Consultar protección de datos personales del TecNM (se abre en otra pestaña)"
+             title="Protección de Datos Personales del TecNM">
+            <img src="../img/privacidad/TECNM_button.png" width="1000" height="1000"
+                 loading="lazy" alt="Tecnológico Nacional de México">
+          </a>
+          <a class="ap-referencia-enlace" href="https://www.te.gob.mx/legislacion/media/files/a8c5476662f6625.htm"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="Consultar legislación del Tribunal Electoral (se abre en otra pestaña)"
+             title="Tribunal Electoral del Poder Judicial de la Federación">
+            <img src="../img/privacidad/TEPJF_button.png" width="1000" height="1000"
+                 loading="lazy" alt="Tribunal Electoral del Poder Judicial de la Federación">
+          </a>
+        </div>
+      </nav>
+      </div>
+    </div>
+  </main>
+  <div id="site-footer"></div>
+  <script src="../js/app.js"></script>
+  <script>
+    const botonImprimir = document.getElementById('ap-print');
+    if (botonImprimir) botonImprimir.addEventListener('click', function () {
+      window.print();
+    });
+  </script>
+</body>
+</html>

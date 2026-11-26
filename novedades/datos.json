@@ -1,0 +1,48 @@
+{
+  "estado": "activo",
+  "mensaje": "Noticias activas",
+  "imagenes": [
+    {
+      "src": "imagenes/plantaci%C3%B3n_%C3%A1rboles_itao_07112026%20%286%29.jpeg?v=1794485860-576683",
+      "titulo": "Plantación árboles itao 07112026 (6)",
+      "modificado": 1794485860,
+      "ancho": 1600,
+      "alto": 1066
+    },
+    {
+      "src": "imagenes/plantaci%C3%B3n_%C3%A1rboles_itao_07112026%20%2826%29.jpeg?v=1794463771-605782",
+      "titulo": "Plantación árboles itao 07112026 (26)",
+      "modificado": 1794463771,
+      "ancho": 1600,
+      "alto": 1066
+    },
+    {
+      "src": "imagenes/plantaci%C3%B3n_%C3%A1rboles_itao_07112026%20%2829%29.jpeg?v=1794463759-622152",
+      "titulo": "Plantación árboles itao 07112026 (29)",
+      "modificado": 1794463759,
+      "ancho": 1600,
+      "alto": 1110
+    },
+    {
+      "src": "imagenes/plantaci%C3%B3n_%C3%A1rboles_itao_07112026%20%2839%29.jpeg?v=1794463661-495236",
+      "titulo": "Plantación árboles itao 07112026 (39)",
+      "modificado": 1794463661,
+      "ancho": 1600,
+      "alto": 1066
+    },
+    {
+      "src": "imagenes/plantaci%C3%B3n_%C3%A1rboles_itao_07112026%20%2840%29.jpeg?v=1794463658-215803",
+      "titulo": "Plantación árboles itao 07112026 (40)",
+      "modificado": 1794463658,
+      "ancho": 1280,
+      "alto": 960
+    },
+    {
+      "src": "imagenes/plantaci%C3%B3n_%C3%A1rboles_itao_07112026%20%2874%29.jpeg?v=1794462412-206274",
+      "titulo": "Plantación árboles itao 07112026 (74)",
+      "modificado": 1794462412,
+      "ancho": 1280,
+      "alto": 960
+    }
+  ]
+}

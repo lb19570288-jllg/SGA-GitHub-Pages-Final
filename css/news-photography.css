@@ -1,0 +1,36 @@
+/* Regla fotográfica común a las 40 destacadas y las noticias del listado. */
+.news-item .news-card-photo {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+  min-height: 148px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  border-radius: 12px;
+  background: #123656;
+  color: #e7f0f8;
+}
+.news-card-photo-image {
+  display: block;
+  width: 100%;
+  height: 164px;
+  object-fit: cover;
+  object-position: center;
+}
+.news-card-photo-message { padding: 22px 12px; font-size: .83rem; text-align: center; }
+.news-card-photo-credit {
+  display: block;
+  background: #e9f2f6;
+  color: #27445d;
+  padding: 7px 9px;
+  font-size: .72rem;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+.news-card-photo-credit a { color: #174f71; }
+.news-card-photo.has-external-photo { background: #e9f2f6; }
+@media (max-width: 520px) {
+  .news-card-photo-image { height: 190px; }
+}

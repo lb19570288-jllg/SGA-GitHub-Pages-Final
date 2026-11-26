@@ -1,0 +1,24 @@
+/* Formularios SGA: estilos compartidos, sin frameworks. */
+.sga-antispam { position: absolute !important; left: -9999px !important; width: 1px; height: 1px; overflow: hidden; }
+.sga-opcional { font-weight: 400; color: #62788e !important; }
+.sga-aviso-casilla { display: flex !important; align-items: flex-start; gap: 10px; font-size: 0.91rem; line-height: 1.55; color: #284560; }
+.sga-aviso-casilla input[type="checkbox"] { width: 19px !important; height: 19px; flex: 0 0 19px; margin: 3px 0 0; accent-color: #1b396a; padding: 0 !important; }
+.sga-aviso-casilla a { color: #1b396a; font-weight: 700; text-decoration: underline; }
+.sga-imagenes-campo input[type="file"] { background: #fff; cursor: pointer; max-width: 100%; }
+.sga-imagenes-campo input[type="file"]::file-selector-button { background: #1b396a; color: #fff; border: 0; border-radius: 7px; padding: 9px 12px; margin-right: 14px; cursor: pointer; }
+.sga-imagenes-estado { color: #355772; font-size: .9rem; margin: 0; }
+.sga-imagenes-estado[data-state="error"] { color: #9d2727; font-weight: 700; }
+.sga-imagenes-previa { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; margin-top: 4px; }
+.sga-imagenes-previa .sga-miniatura { border: 1px solid #d9e2ed; border-radius: 9px; background: #f7f9fb; padding: 6px; min-width: 0; }
+.sga-miniatura img { width: 100%; height: 90px; object-fit: cover; border-radius: 5px; display: block; }
+.sga-miniatura span { font-size: .72rem; display: block; margin-top: 5px; word-break: break-word; color: #304962; }
+#formstatus[data-state="error"], .sga-formstatus[data-state="error"] { color: #a32727; font-weight: 700; }
+#formstatus[data-state="success"], .sga-formstatus[data-state="success"] { color: #137457; font-weight: 700; }
+.sga-contacto-form { max-width: 780px; padding: 22px; border: 1px solid #d6e2ec; border-radius: 16px; background: #f9fbfd; }
+.sga-contacto-form label:not(.sga-aviso-casilla) { display: grid; gap: 8px; color: #153b66; font-weight: 700; }
+.sga-contacto-form input:not([type="checkbox"]), .sga-contacto-form textarea { display: block; width: 100%; padding: 13px; border: 1px solid #b4c9da; border-radius: 9px; background: #fff; color: #1c3551; font: inherit; }
+.sga-contacto-form textarea { resize: vertical; }
+.sga-contacto-form button[type="submit"] { padding: 12px 22px; background: #1b396a; color: #fff; border: 0; border-radius: 9px; font: inherit; font-weight: 750; cursor: pointer; }
+.sga-contacto-form button:disabled, .solicitudes-sga__validar:disabled { opacity: .6; cursor: progress; }
+.sga-aviso-informativo { font-size: .83rem; color: #51677d; line-height: 1.5; }
+@media (max-width: 600px) { .sga-contacto-form { padding: 14px; } .sga-imagenes-previa { grid-template-columns: repeat(3,minmax(0,1fr)); } }

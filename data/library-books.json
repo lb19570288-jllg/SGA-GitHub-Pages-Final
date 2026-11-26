@@ -1,0 +1,182 @@
+{
+  "updated": "2026-11-24",
+  "source_note": "OpenLibro: fichas individuales verificadas. Anna’s Archive y Z-Library: selección temática bibliográfica verificada en Open Library; no está comprobada su presencia ni disponibilidad en esos servicios.",
+  "books": [
+    {
+      "source": "openlibro",
+      "title": "Energía Solar para el Desarrollo Rural: Sistemas Fotovoltaicos como Motor de Sostenibilidad Económica y Social",
+      "author": "Consultar autoría en la ficha",
+      "year": null,
+      "topic": [
+        "energia",
+        "sociedad"
+      ],
+      "desc": "Energía fotovoltaica en comunidades rurales: dimensión técnica, social y ambiental.",
+      "url": "https://openlibro.com/libro/energia-solar-para-el-desarrollo-rural-sistemas-fotovoltaicos-como-motor-de-sostenibilidad-economica-y-social/",
+      "isbn": ""
+    },
+    {
+      "source": "openlibro",
+      "title": "Energía Solar Fotovoltaica",
+      "author": "Consultar autoría en la ficha",
+      "year": null,
+      "topic": [
+        "energia",
+        "agua"
+      ],
+      "desc": "Diseño de sistemas conectados a red, autónomos y de bombeo de agua.",
+      "url": "https://openlibro.com/libro/energia-solar-fotovoltaica/",
+      "isbn": ""
+    },
+    {
+      "source": "openlibro",
+      "title": "Introducción a los Sistemas de Información Geográfica con QGIS",
+      "author": "Consultar autoría en la ficha",
+      "year": null,
+      "topic": [
+        "biodiversidad",
+        "agua",
+        "urbano"
+      ],
+      "desc": "Cartografía territorial y análisis geográfico aplicables a estudios ambientales.",
+      "url": "https://openlibro.com/libro/introduccion-a-los-sistemas-de-informacion-geografica-con-qgis/",
+      "isbn": ""
+    },
+    {
+      "source": "openlibro",
+      "title": "Teledetección y sistemas de información geográfica: Fundamentos teóricos y ejemplos de aplicaciones para las ciencias naturales",
+      "author": "Consultar autoría en la ficha",
+      "year": null,
+      "topic": [
+        "biodiversidad",
+        "clima",
+        "agua"
+      ],
+      "desc": "Uso de imágenes satelitales y SIG en ciencias naturales y análisis territorial.",
+      "url": "https://openlibro.com/libro/teledeteccion-y-sistemas-de-informacion-geografica-fundamentos-teoricos-y-ejemplos-de-aplicaciones-para-las-ciencias-naturales/",
+      "isbn": ""
+    },
+    {
+      "source": "openlibro",
+      "title": "Tecnología para la Reducción del Riesgo de Desastres",
+      "author": "Consultar autoría en la ficha",
+      "year": null,
+      "topic": [
+        "clima",
+        "sociedad",
+        "urbano"
+      ],
+      "desc": "Tecnologías y comunicación para prevención y respuesta ante desastres.",
+      "url": "https://openlibro.com/libro/tecnologia-para-la-reduccion-del-riesgo-de-desastres/",
+      "isbn": ""
+    },
+    {
+      "source": "anna",
+      "title": "Primavera silenciosa (Silent Spring)",
+      "author": "Rachel Carson",
+      "year": 1962,
+      "topic": [
+        "biodiversidad",
+        "residuos"
+      ],
+      "desc": "Obra clásica sobre plaguicidas y consecuencias ecológicas.",
+      "url": "https://openlibrary.org/books/OL37176000M/Silent_Spring",
+      "isbn": "9781299897373"
+    },
+    {
+      "source": "anna",
+      "title": "El gobierno de los bienes comunes",
+      "author": "Elinor Ostrom",
+      "year": 1990,
+      "topic": [
+        "agua",
+        "sociedad",
+        "politica"
+      ],
+      "desc": "Cómo las comunidades gestionan recursos compartidos a largo plazo.",
+      "url": "https://openlibrary.org/books/OL26316870M/El_gobierno_de_los_bienes_comunes",
+      "isbn": ""
+    },
+    {
+      "source": "anna",
+      "title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "year": 2008,
+      "topic": [
+        "clima",
+        "sociedad",
+        "politica"
+      ],
+      "desc": "Herramientas de pensamiento sistémico aplicables a la sostenibilidad.",
+      "url": "https://openlibrary.org/books/OL17052666M/Thinking_in_systems",
+      "isbn": "9781603580557"
+    },
+    {
+      "source": "anna",
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "year": 2014,
+      "topic": [
+        "biodiversidad",
+        "clima"
+      ],
+      "desc": "Investigación y divulgación sobre la pérdida acelerada de especies.",
+      "url": "https://openlibrary.org/books/OL25447826M/The_Sixth_Extinction",
+      "isbn": "9781250062185"
+    },
+    {
+      "source": "zlibrary",
+      "title": "Cradle to Cradle",
+      "author": "William McDonough y Michael Braungart",
+      "year": 2002,
+      "topic": [
+        "residuos",
+        "urbano",
+        "sociedad"
+      ],
+      "desc": "Diseño circular de productos para evitar residuos desde su origen.",
+      "url": "https://openlibrary.org/books/OL9492053M/Cradle_to_Cradle",
+      "isbn": ""
+    },
+    {
+      "source": "zlibrary",
+      "title": "Braiding Sweetgrass",
+      "author": "Robin Wall Kimmerer",
+      "year": 2013,
+      "topic": [
+        "biodiversidad",
+        "sociedad"
+      ],
+      "desc": "Ecología, saberes indígenas y nuestra relación con las plantas.",
+      "url": "https://openlibrary.org/books/OL26434282M/Braiding_Sweetgrass",
+      "isbn": "9781571313560"
+    },
+    {
+      "source": "zlibrary",
+      "title": "Drawdown",
+      "author": "Paul Hawken (editor)",
+      "year": 2017,
+      "topic": [
+        "clima",
+        "energia",
+        "residuos"
+      ],
+      "desc": "Estrategias para reducir gases de efecto invernadero en distintos sectores.",
+      "url": "https://openlibrary.org/books/OL26497978M/Drawdown",
+      "isbn": "9780143130444"
+    },
+    {
+      "source": "zlibrary",
+      "title": "The Uninhabitable Earth",
+      "author": "David Wallace-Wells",
+      "year": 2019,
+      "topic": [
+        "clima",
+        "sociedad"
+      ],
+      "desc": "Análisis divulgativo de los riesgos del calentamiento global.",
+      "url": "https://openlibrary.org/books/OL30521250M/The_Uninhabitable_Earth",
+      "isbn": "9781984826589"
+    }
+  ]
+}

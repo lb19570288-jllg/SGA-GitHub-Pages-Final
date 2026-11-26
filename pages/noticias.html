@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Información ambiental internacional. Sistema de Gestión Ambiental del Instituto Tecnológico de Álvaro Obregón." />
+    <title>Información qué cuida | Noticias · SGA TecNM</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/uiux-global.css" />
+    <style>
+      #contenido-principal { background: #ffffff; }
+      .news-banner-wrap {
+        max-width: 1240px;
+        margin: clamp(26px, 4vw, 42px) auto clamp(34px, 5vw, 56px);
+        padding: 0 20px;
+      }
+      .news-banner-note {
+        margin: 10px auto 0;
+        max-width: 1200px;
+        text-align: center;
+        color: #45607d;
+        font-size: 0.95rem;
+      }
+    </style>
+  </head>
+  <body data-page="noticias">
+    <a class="skip-link" href="#contenido-principal">Saltar al contenido principal</a>
+    <div id="site-header"></div>
+
+    <main id="contenido-principal">
+      <section
+        class="page-hero page-hero-photo"
+        style="--banner: url('../img/pages/noticias-internacionales.jpg')"
+        aria-labelledby="page-title"
+      >
+        <div class="eyebrow">Sistema de Gestión Ambiental</div>
+        <h1 id="page-title">INFORMACIÓN QUÉ CUIDA</h1>
+        <p class="lead" id="page-subtitle">Noticias actuales para conocer y informar</p>
+      </section>
+
+      <section class="news-banner-wrap" aria-label="Información ambiental internacional">
+        <sga-news-banner></sga-news-banner>
+        
+      </section>
+
+      <!-- Cartelera local de Noticias: novedades/imagenes/. -->
+      <section class="home-novedades" id="novedades" aria-labelledby="novedades-titulo">
+        <h2 id="novedades-titulo">NOVEDADES</h2>
+        <iframe
+          class="home-novedades__marco"
+          src="../novedades/novedades.html"
+          title="Cartelera de novedades del Sistema de Gestión Ambiental"
+          loading="eager"
+          scrolling="no"
+        ></iframe>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+    <script src="../js/app.js" defer></script>
+    <script type="module" src="../banner_sga/js/banner.js?v=8"></script>
+    <script src="../js/novedades.js" defer></script>
+  </body>
+</html>

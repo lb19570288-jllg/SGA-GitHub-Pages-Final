@@ -1,0 +1,20 @@
+{
+  "estado": "activo",
+  "mensaje": "Noticias activas",
+  "imagenes": [
+    {
+      "src": "imagenes/anti-ilegalidad.jpeg?v=1795543342-276848",
+      "titulo": "Anti ilegalidad",
+      "modificado": 1795543342,
+      "ancho": 1600,
+      "alto": 800
+    },
+    {
+      "src": "imagenes/medio_ambiente.jpeg?v=1795543342-311035",
+      "titulo": "Medio ambiente",
+      "modificado": 1795543342,
+      "ancho": 1600,
+      "alto": 800
+    }
+  ]
+}

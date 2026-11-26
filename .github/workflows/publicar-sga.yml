@@ -1,0 +1,95 @@
+name: Publicar SGA y actualizar noticias, carteleras y Biblioteca
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 0,6,12,18 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  publicar:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Revisar Biblioteca quincenal
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          if ! timeout 5m python tools/biblioteca.py || ! python tools/blindaje.py --catalogo biblioteca; then
+            git restore -- data/pages-snapshot/library.json
+            echo '::warning::Biblioteca: se conserva el catálogo anterior.'
+          fi
+      - name: Recuperar modelos de traducción local
+        if: github.event_name != 'push'
+        uses: actions/cache@v4
+        continue-on-error: true
+        with:
+          path: |
+            ~/.local/share/argos-translate
+            ~/.local/cache/argos-translate
+            ~/stanza_resources
+          key: sga-argos-v1-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: sga-argos-v1-${{ runner.os }}-
+      - name: Preparar traductor gratuito
+        if: github.event_name != 'push'
+        run: |
+          python -m pip install 'langdetect==1.0.9' || echo '::warning::Detector de idioma no disponible.'
+          timeout 7m python -m pip install 'argostranslate==1.11.0' || echo '::warning::Traducción local no disponible en este ciclo.'
+      - name: Consultar los 195 medios (sin publicar resultados parciales)
+        if: github.event_name != 'push'
+        env:
+          SGA_TRANSLATE_LOCAL: '1'
+        run: |
+          if ! timeout 35m python tools/banner_news/actualizar.py --workers 12 || ! python tools/blindaje.py --catalogo banner; then
+            git restore -- banner_sga/data/destacadas.json banner_sga/data/status.json
+            echo '::warning::Actualización incompleta: se conserva la edición anterior.'
+          fi
+      - name: Preparar dependencias de carteleras
+        run: python -m pip install 'Pillow>=11,<13'
+      - uses: actions/configure-pages@v5
+      - name: Generar copia aislada del sitio
+        run: python tools/carteleras.py --publicar "$RUNNER_TEMP/sga-publico"
+      - name: Validación obligatoria antes de publicar
+        run: |
+          python tools/blindaje.py --sitio "$RUNNER_TEMP/sga-publico"
+          while IFS= read -r -d '' file; do
+            node --input-type=module --check < "$file"
+          done < <(find "$RUNNER_TEMP/sga-publico" -type f -name '*.js' -print0)
+      - name: Guardar catálogos validados (sin sobrescribir cambios humanos)
+        run: |
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" || { echo '::error::Existe una revisión más reciente. Se conserva la publicación anterior.'; exit 1; }
+          git add -- data/pages-snapshot/library.json banner_sga/data/destacadas.json banner_sga/data/status.json
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Actualizar catálogos ambientales del SGA'
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/sga-publico
+      - name: Evitar despliegue de una revisión superada
+        run: |
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" || { echo '::error::Hay una revisión más reciente; no se desplegará esta copia.'; exit 1; }
+      # Incluso si no cambió el catálogo, reintenta una publicación anterior fallida.
+      - uses: actions/deploy-pages@v4
+        id: deployment
