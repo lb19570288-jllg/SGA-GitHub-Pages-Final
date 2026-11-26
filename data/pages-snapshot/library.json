@@ -1,9 +1,71 @@
 {
-  "updated": "2026-11-24T18:56:09+00:00",
+  "updated": "2026-11-26T06:34:39.467926+00:00",
   "refresh_days": 15,
   "slot": 1385,
   "next_refresh": "2026-12-03T00:00:00+00:00",
   "books": [
+    {
+      "source": "openlibrary",
+      "title": "The great trash bash",
+      "author": "Loreen Leedy",
+      "year": 1991,
+      "topic": [
+        "residuos"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Residuos y reciclaje.",
+      "url": "https://openlibrary.org/works/OL121468W",
+      "isbn": "",
+      "cover_id": 6509295
+    },
+    {
+      "source": "openlibrary",
+      "title": "Sustainable Urban Forms",
+      "author": "Bashir A. Kazimee",
+      "year": 2015,
+      "topic": [
+        "urbano"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Entorno urbano.",
+      "url": "https://openlibrary.org/works/OL20916840W",
+      "isbn": "",
+      "cover_id": 10285493
+    },
+    {
+      "source": "openlibrary",
+      "title": "EU Climate Policy Explained",
+      "author": "Jos Delbeke, Peter Vis",
+      "year": 2015,
+      "topic": [
+        "clima"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Cambio climático.",
+      "url": "https://openlibrary.org/works/OL21277607W",
+      "isbn": ""
+    },
+    {
+      "source": "openlibrary",
+      "title": "Designing High-Density Cities",
+      "author": "Edward Ng",
+      "year": 2009,
+      "topic": [
+        "urbano"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Entorno urbano.",
+      "url": "https://openlibrary.org/works/OL21294768W",
+      "isbn": ""
+    },
+    {
+      "source": "openlibrary",
+      "title": "Purpose of Planning",
+      "author": "Yvonne Rydin",
+      "year": 2011,
+      "topic": [
+        "urbano"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Entorno urbano.",
+      "url": "https://openlibrary.org/works/OL21026345W",
+      "isbn": ""
+    },
     {
       "source": "zlibrary",
       "title": "Cradle to Cradle",
@@ -19,6 +81,82 @@
       "isbn": ""
     },
     {
+      "source": "openlibrary",
+      "title": "Vintage made modern",
+      "author": "Jennifer Casa",
+      "year": 2014,
+      "topic": [
+        "residuos"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Residuos y reciclaje.",
+      "url": "https://openlibrary.org/works/OL19985244W",
+      "isbn": "",
+      "cover_id": 11739517
+    },
+    {
+      "source": "openlibrary",
+      "title": "Policy and institutions in adaptation to climate change",
+      "author": "Partha J. Das",
+      "year": 2013,
+      "topic": [
+        "clima"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Cambio climático.",
+      "url": "https://openlibrary.org/works/OL23104652W",
+      "isbn": ""
+    },
+    {
+      "source": "openlibrary",
+      "title": "Making climate change work for us",
+      "author": "M. Hulme",
+      "year": 2010,
+      "topic": [
+        "clima"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Cambio climático.",
+      "url": "https://openlibrary.org/works/OL16140888W",
+      "isbn": "",
+      "cover_id": 14383908
+    },
+    {
+      "source": "openlibrary",
+      "title": "This Changes Everything",
+      "author": "Naomi Klein",
+      "year": 2013,
+      "topic": [
+        "clima"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Cambio climático.",
+      "url": "https://openlibrary.org/works/OL17062332W",
+      "isbn": "",
+      "cover_id": 7306100
+    },
+    {
+      "source": "openlibrary",
+      "title": "The scrap craft project book",
+      "author": "Nicki Wheeler",
+      "year": 1998,
+      "topic": [
+        "residuos"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Residuos y reciclaje.",
+      "url": "https://openlibrary.org/works/OL2805056W",
+      "isbn": "",
+      "cover_id": 1353280
+    },
+    {
+      "source": "openlibrary",
+      "title": "Sam helps recycle",
+      "author": "Judith Bauer Stamper",
+      "year": 2010,
+      "topic": [
+        "residuos"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Residuos y reciclaje.",
+      "url": "https://openlibrary.org/works/OL15300556W",
+      "isbn": ""
+    },
+    {
       "source": "openlibro",
       "title": "Tecnología para la Reducción del Riesgo de Desastres",
       "author": "Consultar autoría en la ficha",
@@ -30,6 +168,19 @@
       ],
       "desc": "Tecnologías y comunicación para prevención y respuesta ante desastres.",
       "url": "https://openlibro.com/libro/tecnologia-para-la-reduccion-del-riesgo-de-desastres/",
+      "isbn": "",
+      "cover_url": "https://openlibro.com/wp-content/uploads/2026/10/portada-2894-200x300.webp"
+    },
+    {
+      "source": "openlibrary",
+      "title": "Sustainability the Environment and Urbanisation",
+      "author": "Cedric Pugh",
+      "year": 2014,
+      "topic": [
+        "urbano"
+      ],
+      "desc": "Registro bibliográfico de Open Library · Entorno urbano.",
+      "url": "https://openlibrary.org/works/OL21318408W",
       "isbn": ""
     },
     {
@@ -44,7 +195,8 @@
       ],
       "desc": "Cartografía territorial y análisis geográfico aplicables a estudios ambientales.",
       "url": "https://openlibro.com/libro/introduccion-a-los-sistemas-de-informacion-geografica-con-qgis/",
-      "isbn": ""
+      "isbn": "",
+      "cover_url": "https://openlibro.com/wp-content/uploads/2026/10/portada-3306-200x300.webp"
     },
     {
       "source": "anna",
@@ -111,7 +263,8 @@
       ],
       "desc": "Uso de imágenes satelitales y SIG en ciencias naturales y análisis territorial.",
       "url": "https://openlibro.com/libro/teledeteccion-y-sistemas-de-informacion-geografica-fundamentos-teoricos-y-ejemplos-de-aplicaciones-para-las-ciencias-naturales/",
-      "isbn": ""
+      "isbn": "",
+      "cover_url": "https://openlibro.com/wp-content/uploads/2026/11/portada-4219-200x300.webp"
     },
     {
       "source": "openlibro",
@@ -124,7 +277,8 @@
       ],
       "desc": "Energía fotovoltaica en comunidades rurales: dimensión técnica, social y ambiental.",
       "url": "https://openlibro.com/libro/energia-solar-para-el-desarrollo-rural-sistemas-fotovoltaicos-como-motor-de-sostenibilidad-economica-y-social/",
-      "isbn": ""
+      "isbn": "",
+      "cover_url": "https://openlibro.com/wp-content/uploads/2026/08/portada-1578-200x300.webp"
     },
     {
       "source": "openlibro",
@@ -137,7 +291,8 @@
       ],
       "desc": "Diseño de sistemas conectados a red, autónomos y de bombeo de agua.",
       "url": "https://openlibro.com/libro/energia-solar-fotovoltaica/",
-      "isbn": ""
+      "isbn": "",
+      "cover_url": "https://openlibro.com/wp-content/uploads/2026/08/portada-1314-200x300.webp"
     },
     {
       "source": "zlibrary",
@@ -183,187 +338,193 @@
   ],
   "essays": [
     {
-      "title": "A Meta-analysis of Water Conservation Policies in the Southern Ogallala Aquifer Region",
-      "authors": "Yubing Fan, Seong C. Park",
+      "title": "Field-based research and biodiversity conservation: review and prospects of the Biodiversity Conservation Project in Indonesia",
+      "authors": "SUSUMU Y. TAKAHASHI",
       "institutions": "",
-      "source": "RePEc: Research Papers in Economics",
-      "year": 2018,
+      "source": "Tropics",
+      "year": 2006,
       "language": "en",
-      "url": "https://ageconsearch.umn.edu/record/266656/files/Fan_Park_2018_SAEA_Meta-analysis_Water%20Conservation%20Policies_Southern%20Ogallala.pdf",
-      "pdf": "https://ageconsearch.umn.edu/record/266656/files/Fan_Park_2018_SAEA_Meta-analysis_Water%20Conservation%20Policies_Southern%20Ogallala.pdf",
-      "topic": "Agua"
+      "url": "https://doi.org/10.3759/tropics.15.259",
+      "pdf": "https://www.jstage.jst.go.jp/article/tropics/15/3/15_3_259/_pdf",
+      "topic": "Biodiversidad"
     },
     {
-      "title": "A review of residential water conservation policies and attempts to measure their effectiveness",
-      "authors": "Alexander Maas, Roshan Puri, Christopher Goemans",
-      "institutions": "University of Idaho, University of California, Davis, Colorado State University",
-      "source": "PLOS Water",
+      "title": "Biodiversity conservation in China: A review of recent studies and practices",
+      "authors": "Wei Wang, Chunting Feng, Fangzheng Liu, Junsheng Li",
+      "institutions": "Chinese Research Academy of Environmental Sciences",
+      "source": "Environmental Science and Ecotechnology",
+      "year": 2020,
+      "language": "en",
+      "url": "https://doi.org/10.1016/j.ese.2020.100025",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S266649842030017X/pdf",
+      "topic": "Biodiversidad"
+    },
+    {
+      "title": "The intersection of food security and biodiversity conservation: a review",
+      "authors": "Josefine Glamann, Jan Hanspach, David J. Abson, Neil French Collier, Joern Fischer",
+      "institutions": "Leuphana University of Lüneburg",
+      "source": "Regional Environmental Change",
+      "year": 2015,
+      "language": "en",
+      "url": "https://zenodo.org/records/14569849",
+      "pdf": "",
+      "topic": "Biodiversidad"
+    },
+    {
+      "title": "Traditional ecological knowledge and its role in biodiversity conservation: a systematic review",
+      "authors": "Ndidzulafhi Innocent Sinthumule",
+      "institutions": "University of Johannesburg",
+      "source": "Frontiers in Environmental Science",
+      "year": 2023,
+      "language": "en",
+      "url": "https://doi.org/10.3389/fenvs.2023.1164900",
+      "pdf": "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1164900/pdf",
+      "topic": "Biodiversidad"
+    },
+    {
+      "title": "Photocatalytic Materials Obtained from E-Waste Recycling: Review, Techniques, Critique, and Update",
+      "authors": "Ashkan Bahadoran, Jeffrey Roshan De Lile, Saeid Masudy‐Panah, Behzad Sadeghi, Jiaxin Li",
+      "institutions": "Shanghai Jiao Tong University, State Key Laboratory of Metal Matrix Composites, Polytechnique Montréal, Singapore-MIT Alliance for Research and Technology",
+      "source": "Journal of Manufacturing and Materials Processing",
+      "year": 2022,
+      "language": "en",
+      "url": "https://doi.org/10.3390/jmmp6040069",
+      "pdf": "https://www.mdpi.com/2504-4494/6/4/69/pdf?version=1657003977",
+      "topic": "Residuos y reciclaje"
+    },
+    {
+      "title": "Revitalizing municipal solid waste recycling: Review of current U.S. policies and potential directions for the circular economy",
+      "authors": "Austin Saragih, Milena Janjevic, Matthias Winkenbach",
+      "institutions": "Massachusetts Institute of Technology",
+      "source": "MIT Science Policy Review",
       "year": 2024,
       "language": "en",
-      "url": "https://doi.org/10.1371/journal.pwat.0000278",
+      "url": "https://doi.org/10.38105/spr.5rbiekp17o",
+      "pdf": "https://sciencepolicyreview.pubpub.org/pub/0w89x8r2/download/pdf",
+      "topic": "Residuos y reciclaje"
+    },
+    {
+      "title": "Recycling of marble waste: A review based on strength of concrete containing marble waste",
+      "authors": "Esra TUĞRUL TUNÇ",
+      "institutions": "Fırat University",
+      "source": "Journal of Environmental Management",
+      "year": 2018,
+      "language": "en",
+      "url": "https://hdl.handle.net/11508/61901",
       "pdf": "",
-      "topic": "Agua"
+      "topic": "Residuos y reciclaje"
     },
     {
-      "title": "Forty Years of Soil and Water Conservation Policy, Implementation, Research and Development in Indonesia: A Review",
-      "authors": "Hunggul Yudono Setio Hadi Nugroho, Tyas Mutiara Basuki, Irfan Budi Pramono, Endang Savitri, Purwanto",
-      "institutions": "",
-      "source": "Sustainability",
-      "year": 2022,
+      "title": "Mining and metallurgical wastes: a review of recycling and re-use practices",
+      "authors": "Elias Matinde",
+      "institutions": "University of the Witwatersrand",
+      "source": "Journal of the Southern African Institute of Mining and Metallurgy",
+      "year": 2018,
       "language": "en",
-      "url": "https://doi.org/10.3390/su14052972",
-      "pdf": "https://www.mdpi.com/2071-1050/14/5/2972/pdf?version=1646309881",
-      "topic": "Agua"
-    },
-    {
-      "title": "A study of water use and water conservation policies at (primary) eco-schools in istanbul",
-      "authors": "Seda Tönük, Kutlu Sevinç Kayıhan",
-      "institutions": "Yıldız Technical University, Gebze Technical University",
-      "source": "International Journal of Sustainable Development and Planning",
-      "year": 2012,
-      "language": "en",
-      "url": "https://doi.org/10.2495/sdp-v7-n3-356-371",
+      "url": "https://doi.org/10.17159/2411-9717/2018/v118n8a5",
       "pdf": "",
-      "topic": "Agua"
-    },
-    {
-      "title": "Waste pickers in Global South: Informal recycling sector in a circular economy era",
-      "authors": "Costas A. Velis",
-      "institutions": "University of Leeds",
-      "source": "Waste Management & Research The Journal for a Sustainable Circular Economy",
-      "year": 2017,
-      "language": "en",
-      "url": "https://doi.org/10.1177/0734242x17702024",
-      "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/0734242X17702024",
-      "topic": "Reciclaje"
-    },
-    {
-      "title": "Additive manufacturing for sustainability and circular economy: needs, challenges, and opportunities for 3D printing of recycled polymeric waste",
-      "authors": "Ans Al Rashid, Muammer Koç‬",
-      "institutions": "Hamad bin Khalifa University, Qatar Foundation",
-      "source": "Materials Today Sustainability",
-      "year": 2023,
-      "language": "en",
-      "url": "https://doi.org/10.1016/j.mtsust.2023.100529",
-      "pdf": "",
-      "topic": "Reciclaje"
-    },
-    {
-      "title": "Environmental Effects of Bio-Waste Recycling on Industrial Circular Economy and Eco-Sustainability",
-      "authors": "Sasmoko Sasmoko, Khalid Zaman, Maida Malik, Usama Awan, Wiwik Handayani",
-      "institutions": "Binus University, University of Haripur, Islamia University of Bahawalpur, University of Inland Norway",
-      "source": "Recycling",
-      "year": 2022,
-      "language": "en",
-      "url": "https://doi.org/10.3390/recycling7040060",
-      "pdf": "https://www.mdpi.com/2313-4321/7/4/60/pdf?version=1660573247",
-      "topic": "Reciclaje"
-    },
-    {
-      "title": "Marketing strategies for waste recycling: a bibliometric analysis towards the circular economy",
-      "authors": "Shunashi Yectzin Aguilar-Morales, Mariana Negrete-Cardoso, Genoveva Rosano‐Ortega, Francisco Javier Sánchez-Ruíz, Laura Berenice Sánchez Baltasar",
-      "institutions": "Universidad Popular Autónoma del Estado de Puebla",
-      "source": "Environmental Science and Pollution Research",
-      "year": 2023,
-      "language": "en",
-      "url": "https://doi.org/10.1007/s11356-023-27040-y",
-      "pdf": "https://link.springer.com/content/pdf/10.1007/s11356-023-27040-y.pdf",
-      "topic": "Reciclaje"
+      "topic": "Residuos y reciclaje"
     }
   ],
   "research": [
     {
-      "title": "Floodplain ecosystems' resilience to extreme seasonal floods: Predisposition of Upper Guinea floodplains, republic of Guinea",
-      "authors": "Demba Aïssata Samoura",
+      "title": "The Historical Evolution of Hisbah in Islamic Governance: From Moral Responsibility to Institutional Accountability",
+      "authors": "Anjeela Farzand, Pakeeza, Shahzadi",
+      "institutions": "Fatima Jinnah Women University",
+      "source": "Perspectives in Social Sciences",
+      "year": 2026,
+      "language": "en",
+      "url": "https://openalex.org/W7236515160",
+      "pdf": "",
+      "topic": "Entorno urbano"
+    },
+    {
+      "title": "The Geography of Circular Transition: Regional Ecosystems, Territorial Governance, and Local Resource Efficiency",
+      "authors": "Aminata Traoré",
       "institutions": "",
-      "source": "Water and Environmental Sustainability",
-      "year": 2027,
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52293/wes.1206.1123",
-      "pdf": "https://www.journalwes.com/article_240754_b62d8f27c72f08d60d7880fa811336e6.pdf",
-      "topic": "Agricultura sostenible"
+      "url": "https://doi.org/10.5281/zenodo.24440859",
+      "pdf": "",
+      "topic": "Entorno urbano"
     },
     {
-      "title": "Evolution of Food Science: Bridging Tradition and Innovation",
-      "authors": "Ranjana Chand, Shubham Kaintura",
-      "institutions": "Jamia Hamdard",
-      "source": "International Journal of Research and Review",
-      "year": 2027,
+      "title": "AI Governance Systems in Southeast Asia: A Comparative Analysis of Indonesia and Malaysia",
+      "authors": "Ilham Sentosa, Behrang Hani Parhizkar, Abdolreza Alami",
+      "institutions": "University of Kuala Lumpur, University of Nottingham Malaysia Campus, Universiti Teknologi MARA System, Universiti Teknologi MARA",
+      "source": "Emerging Technologies and Governance",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52403/ijrr.20260755",
-      "pdf": "https://doi.org/10.52403/ijrr.20260755",
-      "topic": "Agricultura sostenible"
+      "url": "https://doi.org/10.47176/etg.2026.1008",
+      "pdf": "",
+      "topic": "Entorno urbano"
     },
     {
-      "title": "Development of a climate change jurisdictional vulnerability index in South Africa",
-      "authors": "Bernard Moeketsi Hlalele",
-      "institutions": "Human Sciences Research Council",
-      "source": "Water and Environmental Sustainability",
-      "year": 2027,
+      "title": "Twenty-Five Years of Digital Governance Research (2000–2025): A Comprehensive Bibliometric and Science Mapping Analysis",
+      "authors": "Mohammad Hossein Shadmanfar, Rouhollah Tavallaei, Hamed Jafarpour",
+      "institutions": "Imam Hossein University, Saint Petersburg Mining University",
+      "source": "Emerging Technologies and Governance",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52293/wes.1206.1118",
-      "pdf": "https://www.journalwes.com/article_240748_aa210a6bd43353aa6b739747b8ffef3d.pdf",
-      "topic": "Agricultura sostenible"
+      "url": "https://doi.org/10.47176/etg.2026.1006",
+      "pdf": "https://etg.ihu.ac.ir/article_210531_5224e8ba83c00420f5b87512a2934c8f.pdf",
+      "topic": "Entorno urbano"
     },
     {
-      "title": "Framework for Sustainable Water Management in Some Selected States in Northern Nigeria",
-      "authors": "Ali Bakari",
-      "institutions": "Bayero University Kano",
-      "source": "Water and Environmental Sustainability",
-      "year": 2027,
+      "title": "Effect of preheating palm oil biodiesel fuel on the performance and emissions of diesel engine common rail direct injection",
+      "authors": "Nanang Romandoni, Achmad Aminudin, Hari Setiapraja, Bima Randi Wardiasaputra, Kelvin Dwi Wardana",
+      "institutions": "Politeknik Negeri Madiun, National Research and Innovation Agency",
+      "source": "Journal of Mechanical Engineering Science and Technology (JMEST)",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52293/wes.1206.1100",
-      "pdf": "https://www.journalwes.com/article_236215_9384c9d56561f1eccd3f05b7dec146af.pdf",
-      "topic": "Agricultura sostenible"
+      "url": "https://doi.org/10.17977/2580-2402.1240",
+      "pdf": "https://citeus.um.ac.id/cgi/viewcontent.cgi?article=1240&context=jmest",
+      "topic": "Educación ambiental"
     },
     {
-      "title": "Sustainability Pathways and Policy Efficacy in a Rapidly Urbanizing Megacity",
-      "authors": "Jesse Hu",
-      "institutions": "Shanghai American School",
-      "source": "Water and Environmental Sustainability",
-      "year": 2027,
+      "title": "Artificial Intelligence in Science and Physics Education, 2015-2026: An AI-Assisted Bibliometric and Title-and-Abstract Analysis across Fourteen Journals",
+      "authors": "Konstantinos T. Kotsis",
+      "institutions": "University of Ioannina",
+      "source": "EIKI Journal of Effective Teaching Methods",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52293/wes.1206.1119",
-      "pdf": "https://www.journalwes.com/article_240749_b2cc0c20974ef158ba4df58a2dff88de.pdf",
-      "topic": "Contaminación del agua"
+      "url": "https://doi.org/10.59652/fcvx2129",
+      "pdf": "https://journals.eikipub.com/index.php/jetm/article/download/998/525",
+      "topic": "Educación ambiental"
     },
     {
-      "title": "Graphene-Derived Nanomaterials for Wastewater Treatment: Bridging Laboratory Performance and Practical Feasibility",
-      "authors": "Sonali Bhatt",
-      "institutions": "Banasthali University",
-      "source": "Water and Environmental Sustainability",
-      "year": 2027,
+      "title": "A Comparative Study of Artificial Intelligence Governance Patterns in Selected Countries",
+      "authors": "Mahdi Abedipour, Abed Rezaei, SeyedAli Mousavi",
+      "institutions": "Imam Hossein University",
+      "source": "Emerging Technologies and Governance",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52293/wes.1206.1114",
-      "pdf": "https://www.journalwes.com/article_240742_f734e755f3a5aa0203085be6a0b85163.pdf",
-      "topic": "Contaminación del agua"
+      "url": "https://doi.org/10.47176/etg.2026.1010",
+      "pdf": "https://etg.ihu.ac.ir/article_210534_c6bd21346cb1328ba15d5b7062b5f0cc.pdf",
+      "topic": "Educación ambiental"
     },
     {
-      "title": "Distribution, Levels and Characteristics of Petrogenic Plastics Particles in the Sediments of River Ngadda",
-      "authors": "Mathias Nzitiri Bwala",
-      "institutions": "Abubakar Tafawa Balewa University",
-      "source": "Water and Environmental Sustainability",
-      "year": 2027,
+      "title": "Constructing professional chef identity through talent, creativity, and popularity: Insights from professional chefs",
+      "authors": "Emrah Yıldız, Duran CANKÜL, Onur TUGAY",
+      "institutions": "Anadolu University, Eskişehir Osmangazi University, Sakarya University",
+      "source": "Journal of Tourism Theory and Research",
+      "year": 2026,
       "language": "en",
-      "url": "https://doi.org/10.52293/wes.1206.1104",
-      "pdf": "https://www.journalwes.com/article_236219_2c61ac2765a18561ebad05aa3e09a06b.pdf",
-      "topic": "Contaminación del agua"
-    },
-    {
-      "title": "Anthropogenic marine litter at the Maracá-Jipioca Ecological Station, Brazilian Amazon coast",
-      "authors": "Andressa  Souza de Souza, José Elio  Cardoso dos Santos, Alison Pereira de Magalhães, Danusa da Silveira Machado, Emarielle Coelho Pardal",
-      "institutions": "",
-      "source": "Revista Brasileira de Ciências Ambientais",
-      "year": 2027,
-      "language": "en",
-      "url": "https://doi.org/10.67790/rbciamb.027.3176",
-      "pdf": "https://www.rbciamb.com.br/Publicacoes_RBCIAMB/article/download/3176/1439",
-      "topic": "Contaminación del agua"
+      "url": "https://doi.org/10.24288/jttr.2042865",
+      "pdf": "",
+      "topic": "Educación ambiental"
     }
   ],
   "essays_from_previous_cycle": false,
   "research_from_previous_cycle": false,
   "catalog_updated": "2026-11-24",
   "source_note": "OpenLibro: fichas individuales verificadas. Anna’s Archive y Z-Library: selección temática bibliográfica verificada en Open Library; no está comprobada su presencia ni disponibilidad en esos servicios.",
-  "static_snapshot": true
+  "static_snapshot": true,
+  "collection_slots": {
+    "books": 1385,
+    "essays": 1385,
+    "research": 1385
+  },
+  "scheduled_library": true
 }
