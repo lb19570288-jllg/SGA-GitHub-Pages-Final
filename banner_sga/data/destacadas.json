@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-26T07:54:07.750772+00:00",
+  "updated_at": "2026-11-26T13:53:09.471477+00:00",
   "editorial_day": "2026-11-26",
   "items": [
     {
-      "title": "B.C. premier presenta nuevo gabinete, cambiando carteras clave de la minería al medio ambiente",
-      "title_original": "B.C. premier unveils new cabinet, changing key portfolios from mining to environment",
-      "url": "https://thenarwhal.ca/bc-new-cabinet-premier-lorne-doerkson/?utm_source=rss",
-      "date": "2026-11-20T23:55:23+00:00",
+      "title": "El proyecto de almacenamiento de baterías gigante al lado",
+      "title_original": "The giant battery storage project next door",
+      "url": "https://thenarwhal.ca/ottawa-battery-storage-project/",
+      "date": "2026-11-26T13:00:00+00:00",
       "medium": "The Narwhal",
       "country": "Canadá",
       "code": "CA",
@@ -16,7 +16,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Cómo COP31 se convirtió en el ‘momento más oscuro’ de la diplomacia climática",
@@ -163,23 +163,23 @@
       "period": "semana"
     },
     {
-      "title": "Granada lanza guía climática para los ciudadanos en COP31",
-      "title_original": "Grenada launches climate guide for citizens at COP31",
-      "url": "https://nowgrenada.com/2026/11/grenada-launches-climate-guide-for-citizens-at-cop31/",
-      "date": "2026-11-18T11:40:54+00:00",
+      "title": "Países del Caribe alertan por sequía intensa, calor extremo y mares más cálidos",
+      "title_original": "Caribbean countries put on alert for intense drought, extreme heat and warmer seas",
+      "url": "https://nowgrenada.com/2026/11/caribbean-countries-put-on-alert-for-intense-drought-extreme-heat-and-warmer-seas/?utm_source=rss&utm_medium=rss&utm_campaign=caribbean-countries-put-on-alert-for-intense-drought-extreme-heat-and-warmer-seas",
+      "date": "2026-11-26T12:24:53+00:00",
       "medium": "Now Grenada",
       "country": "Granada",
       "code": "GD",
       "type": "national",
       "color": "#926344",
       "image": "flags_news/GD.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "quincena"
+      "period": "dia"
     },
     {
-      "title": "Carrera por la esperanza procede a apoyar la restauración de Hope Gardens – Jamaica Gleaner",
+      "title": "Carrera por la Esperanza procede a apoyar la restauración de Hope Gardens – Jamaica Gleaner",
       "title_original": "Race for Hope proceeds to support Hope Gardens restoration – Jamaica Gleaner",
       "url": "https://jamentrust.org/race-for-hope-proceeds-to-support-hope-gardens-restoration-jamaica-gleaner/",
       "date": "2026-11-13T11:32:03+00:00",
@@ -387,6 +387,54 @@
       "period": "quincena"
     },
     {
+      "title": "El municipio de Horsens pospone el objetivo de ser neutral en el clima por 15 años en un nuevo plan climático.",
+      "title_original": "Horsens Kommune udskyder mål om at være klimaneutrale med 15 år i ny klimaplan",
+      "url": "https://klimamonitor.dk/nyheder/politik/article19868991.ece",
+      "date": "2026-11-26T06:16:53+00:00",
+      "medium": "Klimamonitor",
+      "country": "Dinamarca",
+      "code": "DK",
+      "type": "national",
+      "color": "#E8B84B",
+      "image": "flags_news/DK.webp",
+      "score": 2,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "dia"
+    },
+    {
+      "title": "El volumen de proyectos de desarrollo financiados por la Asociación de Desarrollo del Condado de Tartu asciende a 15,2 millones de euros",
+      "title_original": "Tartumaa Arendusseltsi rahastatud arendusprojektide maht ulatub 15,2 miljoni euroni",
+      "url": "https://bioneer.ee/tartumaa-arendusseltsi-rahastatud-arendusprojektide-maht-ulatub-152-miljoni-euroni?mini=2026-10",
+      "date": "2026-11-25T16:03:46+00:00",
+      "medium": "Bioneer",
+      "country": "Estonia",
+      "code": "EE",
+      "type": "national",
+      "color": "#6495ED",
+      "image": "flags_news/EE.webp",
+      "score": 3,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "semana"
+    },
+    {
+      "title": "La policía confiscó cientos de millones de euros de criptas de VTV, pero la crítica de la investigación del crimen financiero...",
+      "title_original": "Poliisi takavarikoi satojen miljoonien eurojen edestä kryptoja – VTV:ltä silti kritiikkiä talousrikosten tutk…",
+      "url": "https://yle.fi/a/74-20259165",
+      "date": "2026-11-26T12:58:55+00:00",
+      "medium": "Yle",
+      "country": "Finlandia",
+      "code": "FI",
+      "type": "national",
+      "color": "#003580",
+      "image": "flags_news/FI.webp",
+      "score": 3,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "dia"
+    },
+    {
       "title": "Regulator niega la violación de la legislación climática con el marco del centro de datos",
       "title_original": "Regulator denies breaching climate legislation with data centre framework",
       "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41939541.html",
@@ -401,6 +449,22 @@
       "title_language": "es",
       "translation_status": "translated",
       "period": "quincena"
+    },
+    {
+      "title": "Esto sucedió en la COP31: La gran visión general",
+      "title_original": "Dette skjedde på COP31: Den store oversikten",
+      "url": "https://www.energiogklima.no/nyhet/dette-skjedde-pa-cop31-den-store-oversikten",
+      "date": "2026-11-26T08:26:51+00:00",
+      "medium": "Energi og Klima",
+      "country": "Noruega",
+      "code": "NO",
+      "type": "national",
+      "color": "#A42A29",
+      "image": "flags_news/NO.webp",
+      "score": 2,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "dia"
     },
     {
       "title": "COP31: Principales resultados para la alimentación, los bosques, los océanos y la naturaleza en las conversaciones climáticas de las Naciones Unidas en Antalya",
@@ -483,10 +547,10 @@
       "period": "mes"
     },
     {
-      "title": "Cooperativa de vivienda: tercer intento de resurreccionar el edificio regulado de Terra Vella en Andorra la Vella",
-      "title_original": "Cooperativa d'habitatge: tercer intent per ressuscitar l’edifici de pisos a preu regulat de Terra Vella, a Andorra la Vella",
-      "url": "https://www.diariandorra.ad/parroquies/261110/tercer-intent-per-ressuscitar-l-edifici-pisos-preu-regulat-terra-vella_208416.html",
-      "date": "2026-11-10T04:26:48+00:00",
+      "title": "El Gobierno y los arquitectos estudiarán la huella de carbono de los edificios del país",
+      "title_original": "El Govern i els arquitectes estudiaran la petjada de carboni dels edificis del país",
+      "url": "https://www.diariandorra.ad/nacional/261126/govern-i-els-arquitectes-estudiaran-petjada-carboni-dels-edificis-pais_209689.html",
+      "date": "2026-11-26T09:46:13+00:00",
       "medium": "Diari d'Andorra",
       "country": "Andorra",
       "code": "AD",
@@ -496,26 +560,26 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "mes"
+      "period": "dia"
     },
     {
-      "title": "Reciclando papel y cartón en Mangas Verdes 507",
-      "title_original": "Reciclando papel y cartón en Mangas Verdes 507",
-      "url": "https://efeverde.com/reciclaje-papel-carton-mangas-verdes-507/",
-      "date": "2026-11-25T13:00:09+00:00",
+      "title": "El Plan Ribera del Mar: ocho claves del escudo del litoral frente a vertidos contaminantes",
+      "title_original": "El Plan Ribera del Mar: ocho claves del escudo del litoral frente a vertidos contaminantes",
+      "url": "https://efeverde.com/plan-ribera-mar-claves-escudo-frente-vertidos-contaminantes/",
+      "date": "2026-11-26T11:13:29+00:00",
       "medium": "EFEverde",
       "country": "España",
       "code": "ES",
       "type": "national",
       "color": "#D9A441",
       "image": "flags_news/ES.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "semana"
+      "period": "dia"
     },
     {
-      "title": "Quién μερίδα για τćν κρατατατασĆ μετσδικαν καδσν ιρσγσιγσν καρσν τασν από φνισικρς κατασαστασροδς",
+      "title": "Quién μερίδα για τgiaν κρατατικικёαρωγ κα τćν αποκατστστασgia μετλ από φνισικρος κατασροδασρος",
       "title_original": "Ημερίδα για την κρατική αρωγή και την αποκατάσταση μετά από φυσικές καταστροφές",
       "url": "https://greenagenda.gr/imerida-gia-tin-kratiki-arogi-kai-tin-apokatastasi-meta-apo-fysikes-katastrofes/",
       "date": "2026-11-24T21:57:26+00:00",
@@ -579,7 +643,7 @@
       "period": "semana"
     },
     {
-      "title": "Plaza Alexandre Albuquerque será restaurada",
+      "title": "Plaza Alejandro Albuquerque será restaurada",
       "title_original": "​Praça Alexandre Albuquerque será restaurada",
       "url": "https://expressodasilhas.cv/pais/2026/11/25/praca-alexandre-albuquerque-sera-restaurada/105692",
       "date": "2026-11-25T15:20:29+00:00",
@@ -707,8 +771,8 @@
       "period": "semana"
     },
     {
-      "title": "Proyecto Nexus – Contratación de un gabinete para la elaboración de estudios hidrometeorológicos y climatológicos de las cuencas hidrográficas del río Manuel Jorge y Río d’Ouro.",
-      "title_original": "Projecto Nexus – Contratação de um gabinete para elaboração de estudos hidrometeorológicos e climatológicos das bacias hidrográficas do Rio Manuel Jorge e Rio d’Ouro.",
+      "title": "Proyecto Nexus - Contratación de un gabinete para la elaboración de estudios hidrometeorológicos y climatológicos de las cuencas hidrográficas del río Manuel Jorge y Río d'Ouro.",
+      "title_original": "Projecto Nexus - Contratação de um gabinete para elaboração de estudos hidrometeorológicos e climatológicos das bacias hidrográficas do Rio Manuel Jorge e Rio d'Ouro.",
       "url": "https://www.telanon.info/anuncios/2026/11/25/54993/projecto-nexus-contratacao-de-um-gabinete-para-elaboracao-de-estudos-hidrometeorologicos-e-climatologicos-das-bacias-hidrograficas-do-rio-manuel-jorge-e-rio-douro-2/",
       "date": "2026-11-25T13:33:23+00:00",
       "medium": "Téla Nón",
@@ -851,20 +915,20 @@
       "period": "mes"
     },
     {
-      "title": "Eswatini ecosistema empresarial establecido para el impulso global",
-      "title_original": "Eswatini entrepreneurial ecosystem set for global boost",
-      "url": "https://times.co.sz/49344/business/eswatini-entrepreneurial-ecosystem-set-for-global-boost/",
-      "date": "2026-11-25T23:40:00+00:00",
+      "title": "EmaSwati espera ansiosamente el anuncio final del lugar SA",
+      "title_original": "EmaSwati anxiously await big SA final venue announcement",
+      "url": "https://times.co.sz/49379/sports/emaswati-anxiously-await-big-sa-final-venue-announcement/",
+      "date": "2026-11-26T13:16:28+00:00",
       "medium": "Times of Eswatini",
       "country": "Esuatini",
       "code": "SZ",
-      "type": "nature",
-      "color": "#4CAF50",
-      "image": null,
+      "type": "national",
+      "color": "#A73D30",
+      "image": "flags_news/SZ.webp",
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Los Arquitectos de Transición: Mujeres que conforman el futuro energético de Sudáfrica",
@@ -881,6 +945,22 @@
       "title_language": "es",
       "translation_status": "translated",
       "period": "bimestre"
+    },
+    {
+      "title": "Población de Leopardo de Nieve de Kazajstán Casi duplica desde principios de los años 2000",
+      "title_original": "Kazakhstan’s Snow Leopard Population Nearly Doubles Since Early 2000s",
+      "url": "https://astanatimes.com/2026/11/kazakhstans-snow-leopard-population-nearly-doubles-since-early-2000s/",
+      "date": "2026-11-26T12:24:31+00:00",
+      "medium": "The Astana Times",
+      "country": "Kazajistán",
+      "code": "KZ",
+      "type": "national",
+      "color": "#40B4CE",
+      "image": "flags_news/KZ.webp",
+      "score": 2,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "dia"
     },
     {
       "title": "Organizaciones int’l para alinear la ayuda futura con las prioridades ambientales de Afganistán",
@@ -915,20 +995,20 @@
       "period": "semana"
     },
     {
-      "title": "Comisión de atún Atlántico está de acuerdo con reglas de aleta de tiburón, mantiene la prohibición de retención de mako",
-      "title_original": "Atlantic tuna commission agrees on shark finning rules, maintains shortfin mako retention ban",
-      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/atlantic-tuna-commission-agrees-on-shark-finning-rules-maintains-shortfin-mako-retention-ban",
-      "date": "2026-11-25T14:06:14+00:00",
+      "title": "Los pastores de Tanzania no confían en los veterinarios estatales: cuán escasas habilidades y descuido han llevado a un uso antibiótico arriesgado",
+      "title_original": "Tanzania’s herders don’t trust state vets: how scarce skills and neglect have led to risky antibiotic use",
+      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/tanzanias-herders-dont-trust-state-vets-how-scarce-skills-and-neglect-have-led-to-risky-antibiotic-use?utm_source=website&utm_medium=related-stories",
+      "date": "2026-11-26T12:47:32+00:00",
       "medium": "Down To Earth",
       "country": "India",
       "code": "IN",
       "type": "national",
       "color": "#FF9933",
       "image": "flags_news/IN.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Acuerdo firmado para un sistema solar híbrido de 150 megavatios",
@@ -947,26 +1027,42 @@
       "period": "semana"
     },
     {
-      "title": "AJK Assembly sets conditions forrestablecimiento of dialogue with proscribed JAAC",
-      "title_original": "AJK Assembly sets conditions for resumption of dialogue with proscribed JAAC",
-      "url": "https://www.dawn.com/news/2047024/ajk-assembly-sets-conditions-for-resumption-of-dialogue-with-proscribed-jaac",
-      "date": "2026-11-25T16:47:18+00:00",
+      "title": "PTI una 'realidad política' cuya confianza en el sistema necesita ser restaurada: Bilawal",
+      "title_original": "PTI a 'political reality' whose trust in system needs to be restored: Bilawal",
+      "url": "https://www.dawn.com/news/2047216/pti-a-political-reality-whose-trust-in-system-needs-to-be-restored-bilawal",
+      "date": "2026-11-26T13:22:27+00:00",
       "medium": "Dawn",
       "country": "Pakistán",
       "code": "PK",
       "type": "national",
       "color": "#922B3A",
       "image": "flags_news/PK.webp",
+      "score": 3,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "dia"
+    },
+    {
+      "title": "El Parque Nacional Minneriya gana más de 10 mn diarios del turismo de elefante, dijo el tribunal - Breaking News ← Daily Mirror",
+      "title_original": "Minneriya National Park earns over Rs. 10 mn daily from elephant tourism, court told - Breaking News | Daily Mirror",
+      "url": "https://www.dailymirror.lk/breaking-news/Minneriya-National-Park-earns-over-Rs-10-mn-daily-from-elephant-tourism-court-told/108-355764",
+      "date": "2026-11-26T11:40:14+00:00",
+      "medium": "Daily Mirror",
+      "country": "Sri Lanka",
+      "code": "LK",
+      "type": "national",
+      "color": "#2354A0",
+      "image": "flags_news/LK.webp",
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
-      "title": "Zoomlion lanza el primer robot de excavación de AI de la industria alimentado por la inteligencia de Embodied en bauma CHINA 2026",
-      "title_original": "Zoomlion Launches Industry’s First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026",
-      "url": "https://laotiantimes.com/2026/11/26/zoomlion-launches-industrys-first-ai-excavation-robot-powered-by-embodied-intelligence-at-bauma-china-2026/",
-      "date": "2026-11-26T05:46:00+00:00",
+      "title": "Proyecto Solar de Laos para Camboya Exportar 89 Por ciento Completa, Conjunto para Abierto a mediados de diciembre",
+      "title_original": "Laos’ Solar Project for Cambodia Export 89 Percent Complete, Set to Open mid-December",
+      "url": "https://laotiantimes.com/2026/11/26/laos-solar-project-for-cambodia-export-89-percent-complete-set-to-open-mid-december/",
+      "date": "2026-11-26T09:36:07+00:00",
       "medium": "Laotian Times",
       "country": "Laos",
       "code": "LA",
@@ -976,7 +1072,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Se están realizando esfuerzos para restaurar la Pagoda y Pilares de Paz Japoneses en Sagaing Hill - Global New Light",
@@ -995,20 +1091,20 @@
       "period": "semestre"
     },
     {
-      "title": "“Necesitan comer”: ¿Quién paga para proteger las aguas costeras de Filipinas?",
-      "title_original": "‘They need to eat’: Who pays to protect the Philippines’ coastal waters?",
-      "url": "https://www.eco-business.com/news/they-need-to-eat-who-pays-to-protect-the-philippines-coastal-waters/",
-      "date": "2026-11-26T03:00:00+00:00",
+      "title": "El debilitamiento de las normas de carbono de envío podría despojar a las naciones más pobres de la economía de transición",
+      "title_original": "Weakening shipping carbon rules could strip poorer nations of transition finance",
+      "url": "https://www.eco-business.com/news/weakening-shipping-carbon-rules-could-strip-poorer-nations-of-transition-finance/",
+      "date": "2026-11-26T09:30:00+00:00",
       "medium": "Eco-Business",
       "country": "Singapur",
       "code": "SG",
-      "type": "un",
-      "color": "#009EDB",
-      "image": "un_news/WHO.webp",
-      "score": 3,
+      "type": "national",
+      "color": "#50B9AA",
+      "image": "flags_news/SG.webp",
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Avaliasaun Impaktu Ambientál no sistema lisensiamentu ba projetu públiku no Rasionaliza Prosedimentu Avaliasaun Ambientál",
@@ -1041,6 +1137,22 @@
       "title_language": "es",
       "translation_status": "translated",
       "period": "semana"
+    },
+    {
+      "title": "KAHRAMAA firma contratos estratégicos QAR 3 Billones para desarrollar electricidad, redes de agua",
+      "title_original": "KAHRAMAA signs over QAR 3 Billion strategic contracts to develop electricity, water networks",
+      "url": "https://www.gulf-times.com/article/739057/qatar/kahramaa-signs-over-qar-3-billion-strategic-contracts-to-develop-electricity-water-networks",
+      "date": "2026-11-26T08:57:41+00:00",
+      "medium": "Gulf Times",
+      "country": "Catar",
+      "code": "QA",
+      "type": "national",
+      "color": "#8A1538",
+      "image": "flags_news/QA.webp",
+      "score": 2,
+      "title_language": "es",
+      "translation_status": "translated",
+      "period": "dia"
     },
     {
       "title": "Chipre pionero en la protección de tortugas da nombre al premio regional",
@@ -1123,17 +1235,17 @@
       "period": "mes"
     },
     {
-      "title": "Comentario sobre ¿Pueden funcionar juntos energía solar, baterías, VE y electrodomésticos? Sólo si aprenden a conectarse por Epicycler",
-      "title_original": "Comment on Can solar, batteries, EVs and home appliances all work together? Only if they learn how to connect by Epicycler",
-      "url": "https://reneweconomy.com.au/can-solar-batteries-evs-and-home-appliances-all-work-together-only-if-they-learn-how-to-connect/",
-      "date": "2026-11-26T06:06:27+00:00",
+      "title": "Comment on Records tumble for big and small renewables, as doubling of new big pilas helps slash cost of power by Dilie",
+      "title_original": "Comment on Records tumble for big and small renewables, as doubling of new big batteries helps slash cost of power by Dilie",
+      "url": "https://reneweconomy.com.au/records-tumble-for-big-and-small-renewables-as-doubling-of-big-batteries-helps-slash-cost-of-power/",
+      "date": "2026-11-26T10:29:10+00:00",
       "medium": "RenewEconomy",
       "country": "Australia",
       "code": "AU",
       "type": "national",
       "color": "#B74125",
       "image": "flags_news/AU.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
       "period": "dia"
