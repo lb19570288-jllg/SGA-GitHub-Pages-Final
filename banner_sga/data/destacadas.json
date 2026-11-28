@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-28T01:52:31.172763+00:00",
-  "editorial_day": "2026-11-27",
+  "updated_at": "2026-11-28T13:37:48.112565+00:00",
+  "editorial_day": "2026-11-28",
   "items": [
     {
       "title": "Un proyecto gigante de almacenamiento de baterías se mueve al lado. ¿Qué haces?",
@@ -48,7 +48,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "3,500 acres añadidos al Corredor Forestal Maya",
@@ -112,7 +112,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Sir Viv pide límites más largos para restaurar el equilibrio entre bate y bola",
@@ -176,7 +176,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Carrera por la esperanza procede a apoyar la restauración de Hope Gardens – Jamaica Gleaner",
@@ -192,13 +192,13 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "quincena"
+      "period": "mes"
     },
     {
-      "title": "Evaluación resalta avances ambientales de Punta Catalina",
-      "title_original": "Evaluación resalta avances ambientales de Punta Catalina",
-      "url": "https://www.diariolibre.com/economia/energia/2026/11/27/evaluacion-resalta-avances-ambientales-de-punta-catalina/3733412",
-      "date": "2026-11-27T11:21:00+00:00",
+      "title": "Remozan el Monumento a los Héroes de la Restauración",
+      "title_original": "Remozan el Monumento a los Héroes de la Restauración",
+      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/27/remozan-el-monumento-a-los-heroes-de-la-restauracion/3733911",
+      "date": "2026-11-27T22:31:00+00:00",
       "medium": "Diario Libre",
       "country": "República Dominicana",
       "code": "DO",
@@ -208,7 +208,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Saint Kitts para iniciar la restauración del histórico reloj conmemorativo de Berkeley en 2027",
@@ -272,7 +272,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "«Megaminería y petróleo debilitan protección de la Amazonía»",
@@ -336,29 +336,29 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "dia"
+      "period": "semana"
     },
     {
-      "title": "Economista Bert Schreuders: Suriname debe ver dónde su bosque realmente desaparece y se atreve a elegir",
-      "title_original": "Econoom Bert Schreuders: Suriname moet kijken waar zijn bos werkelijk verdwijnt en durven kiezen",
-      "url": "https://dwtonline.com/econoom-bert-schreuders-suriname-moet-kijken-waar-zijn-bos-werkelijk-verdwijnt-en-durven-kiezen/",
-      "date": "2026-11-26T02:01:37+00:00",
+      "title": "Surinam Conservation Foundation quiere invertir en una mejor gestión de áreas protegidas",
+      "title_original": "Suriname Conservation Foundation wil investeren in verbeteren beheer beschermde gebieden",
+      "url": "https://dwtonline.com/suriname-conservation-foundation-wil-investeren-in-verbeteren-beheer-beschermde-gebieden/",
+      "date": "2026-11-28T11:04:00+00:00",
       "medium": "de Ware Tijd",
       "country": "Surinam",
       "code": "SR",
       "type": "national",
       "color": "#FF4500",
       "image": "flags_news/SR.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
-      "title": "Detectaron cianobacterias en playa de Laguna del Sauce: hay bandera sanitaria",
-      "title_original": "Detectaron cianobacterias en playa de Laguna del Sauce: hay bandera sanitaria",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/11/detectaron-cianobacterias-en-playa-de-laguna-del-sauce-hay-bandera-sanitaria/",
-      "date": "2026-11-27T23:29:59+00:00",
+      "title": "Querer al bar y al barrio",
+      "title_original": "Querer al bar y al barrio",
+      "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/11/querer-al-bar-y-al-barrio/",
+      "date": "2026-11-28T03:44:02+00:00",
       "medium": "La Diaria",
       "country": "Uruguay",
       "code": "UY",
@@ -368,7 +368,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Venezuela ante la COP31: El dilema de Venezuela entre la adicción petrolera y la transición energética",
@@ -400,7 +400,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "El volumen de proyectos de desarrollo financiados por la Asociación de Desarrollo del Condado de Tartu asciende a 15,2 millones de euros",
@@ -432,6 +432,22 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
+      "period": "semana"
+    },
+    {
+      "title": "Reykjavik restaura los servicios electrónicos después del ciberataque",
+      "title_original": "Reykjavik przywraca usługi elektroniczne po cyberataku",
+      "url": "https://www.ruv.is/polski/2026-11-28-reykjavik-przywraca-uslugi-elektroniczne-po-cyberataku-494312",
+      "date": "2026-11-28T11:58:25+00:00",
+      "medium": "RÚV",
+      "country": "Islandia",
+      "code": "IS",
+      "type": "national",
+      "color": "#A5DCE4",
+      "image": "flags_news/IS.webp",
+      "score": 3,
+      "title_language": "es",
+      "translation_status": "translated",
       "period": "dia"
     },
     {
@@ -448,7 +464,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "gato gordo sobre el restaurante: pobre cocina y servicio",
@@ -467,20 +483,20 @@
       "period": "semana"
     },
     {
-      "title": "La izquierda tiene un plan climático. Se llama transición verde.",
-      "title_original": "Venstre har en klimaplan. Den heter grønn omstilling.",
-      "url": "https://www.energiogklima.no/meninger-og-analyse/debatt/venstre-har-en-klimaplan-den-heter-gronn-omstilling",
-      "date": "2026-11-27T11:34:59+00:00",
+      "title": "Hará cambios en la cumbre del clima después del fracaso",
+      "title_original": "Vil gjøre endringer i klima­toppmøtet etter fiasko",
+      "url": "https://www.energiogklima.no/nyhet/brussel/vil-gjore-endringer-i-klima-toppmotet-etter-fiasko",
+      "date": "2026-11-25T13:58:01+00:00",
       "medium": "Energi og Klima",
       "country": "Noruega",
       "code": "NO",
-      "type": "national",
-      "color": "#A42A29",
-      "image": "flags_news/NO.webp",
-      "score": 2,
+      "type": "un",
+      "color": "#009EDB",
+      "image": "un_news/UNIDO.webp",
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "COP31: Principales resultados para la alimentación, los bosques, los océanos y la naturaleza en las conversaciones climáticas de las Naciones Unidas en Antalya",
@@ -499,20 +515,20 @@
       "period": "semana"
     },
     {
-      "title": "M, KD, L y C coinciden en la nueva política climática",
-      "title_original": "M, KD, L och C överens om ny klimatpolitik",
-      "url": "https://www.aktuellhallbarhet.se/miljo-och-klimat/klimatpolitik/m-kd-l-och-c-overens-om-ny-klimatpolitik/",
-      "date": "2026-11-27T14:28:59+00:00",
+      "title": "42 acciones climáticas en el proyecto de prestigio: “Dificultos objetivos para alcanzar”",
+      "title_original": "42 klimatåtgärder i prestigeprojektet: ”Svåra mål att nå”",
+      "url": "https://www.aktuellhallbarhet.se/energi-och-resurs/bygg-och-fastighet/42-klimatatgarder-i-prestigeprojektet-svara-mal-att-na/",
+      "date": "2026-11-26T10:30:00+00:00",
       "medium": "Aktuell Hållbarhet",
       "country": "Suecia",
       "code": "SE",
       "type": "national",
       "color": "#801818",
       "image": "flags_news/SE.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Antalya no era el final",
@@ -528,7 +544,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "El cambio está aquí: Mantener la agricultura adecuada para el futuro",
@@ -547,20 +563,20 @@
       "period": "bimestre"
     },
     {
-      "title": "Demy Schlechter Tribunal de la Escuela Tricks Asfalto contra la Naturaleza – Infogreen",
-      "title_original": "La cour de l'école Demy Schlechter troque l'asphalte contre la nature – Infogreen",
-      "url": "https://www.infogreen.lu/la-cour-de-l-ecole-demy-schlechter-troque-l-asphalte-contre-la-nature.html",
-      "date": "2026-11-27",
+      "title": "Con la adaptación, la luminaria existente forma parte de la solución – Infogreen",
+      "title_original": "Avec le retrofit, le luminaire existant est une partie de la solution – Infogreen",
+      "url": "https://www.infogreen.lu/avec-le-retrofit-le-luminaire-existant-est-une-partie-de-la-solution-31475.html",
+      "date": "2026-11-26",
       "medium": "Infogreen",
       "country": "Luxemburgo",
       "code": "LU",
       "type": "national",
       "color": "#A64732",
       "image": "flags_news/LU.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "De las comunidades forestales a la investigación polar: la Fundación Príncipe Alberto II de Mónaco fortalece la cooperación ambiental en la COP31",
@@ -579,26 +595,26 @@
       "period": "quincena"
     },
     {
-      "title": "Principales historias de la semana: Top economista Kate Raworth, eficaz comunicación climática y respuestas a la COP31",
-      "title_original": "Topverhalen van de week: Topeconoom Kate Raworth, effectieve klimaatcommunicatie en reacties op COP31",
-      "url": "https://www.change.inc/transities/topverhalen-van-de-week-topeconoom-kate-raworth-effectieve-klimaatcommunicatie-en-reacties-op-cop31",
-      "date": "2026-11-27T14:23:46+00:00",
+      "title": "Los cambiadores del año 2026: Klaske Postma y Celina Kroon ganan Premios",
+      "title_original": "De Changemakers van het Jaar 2026: Klaske Postma en Celina Kroon winnen Awards",
+      "url": "https://www.change.inc/transities/leiderschap-transitie/de-changemakers-van-het-jaar-2026-klaske-postma-en-celina-kroon-winnen-awards",
+      "date": "2026-11-26T22:14:36+00:00",
       "medium": "Change Inc.",
       "country": "Países Bajos",
       "code": "NL",
       "type": "national",
       "color": "#FF6600",
       "image": "flags_news/NL.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
-      "title": "Belarús, Nicaragua firma un acuerdo de cooperación sobre ciencia, tecnología e innovación",
-      "title_original": "Беларусь и Никарагуа планируют подписать соглашение о сотрудничестве в области науки, технологий и инноваций",
-      "url": "https://belta.by/society/view/belarus-i-nikaragua-planirujut-podpisat-soglashenie-o-sotrudnichestve-v-oblasti-nauki-tehnologij-i-813001-2026/",
-      "date": "2026-11-27T15:56:58+00:00",
+      "title": "Las verduras frescas son una prioridad, la conservación es un suplemento. Ministry of Agriculture on the formation of the food market of Belarus",
+      "title_original": "Свежие овощи - в приоритете, консервация - дополнение. Минсельхозпрод о формировании продовольственного рынка Беларуси",
+      "url": "https://belta.by/society/view/svezhie-ovoschi-v-prioritete-konservatsija-dopolnenie-minselhozprod-o-formirovanii-prodovolstvennogo-813052-2026/",
+      "date": "2026-11-28T08:49:52+00:00",
       "medium": "BelTA",
       "country": "Bielorrusia",
       "code": "BY",
@@ -624,7 +640,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Opinión. En Eslovaquia necesitamos un camino para reducir las emisiones que podemos permitirnos",
@@ -672,7 +688,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Coca-Cola, 35 años en Rumania: botellas PET 100% recicladas excepto etiquetas y tapas",
@@ -691,17 +707,17 @@
       "period": "semana"
     },
     {
-      "title": "Cerca de 90 países y 180 empresas han aprobado un plan para lograr la electrificación del 35% en 2035.",
-      "title_original": "Почти 90 стран и 180 компаний одобрили план достичь 35% электрификации к 2035 году",
-      "url": "https://ecopolitic.com.ua/news/pochti-90-stran-i-180-kompanij-odobrili-plan-dostich-35-elektrifikacii-k-2035-godu/",
-      "date": "2026-11-27T10:29:41+00:00",
+      "title": "En la clínica veterinaria de Kiev lanzó dos cachorros de león en estado grave",
+      "title_original": "В киевскую ветклинику подбросили двух львят в тяжелом состоянии",
+      "url": "https://ecopolitic.com.ua/news/do-kiivskoi-vetkliniki-pidkinuli-dvoh-levenyat-u-vazhkomu-stani-2/",
+      "date": "2026-11-28T07:00:39+00:00",
       "medium": "EcoPolitic",
       "country": "Ucrania",
       "code": "UA",
-      "type": "nature",
-      "color": "#4CAF50",
-      "image": null,
-      "score": 3,
+      "type": "national",
+      "color": "#C82135",
+      "image": "flags_news/UA.webp",
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
       "period": "dia"
@@ -723,17 +739,17 @@
       "period": "mes"
     },
     {
-      "title": "Andorra, Cataluña y Occitania avanzan en la creación de un grupo de cooperación territorial",
-      "title_original": "Andorra, Catalunya i Occitània avancen en la creació d’una agrupació de cooperació territorial",
-      "url": "https://www.diariandorra.ad/nacional/261127/andorra-catalunya-i-occitania-avancen-creacio-d-agrupacio-cooperacio-territorial_209800.html",
-      "date": "2026-11-27T14:01:33+00:00",
+      "title": "Los Pirineos abren una consulta ciudadana sobre el cambio climático",
+      "title_original": "Els Pirineus obren una consulta ciutadana sobre el canvi climàtic",
+      "url": "https://www.diariandorra.ad/nacional/261128/els-pirineus-obren-consulta-ciutadana-sobre-canvi-climatic_209857.html",
+      "date": "2026-11-28T10:08:41+00:00",
       "medium": "Diari d'Andorra",
       "country": "Andorra",
       "code": "AD",
       "type": "national",
       "color": "#586169",
       "image": "flags_news/AD.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
       "period": "dia"
@@ -752,7 +768,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "WWF Ελλمς: 35 χρόνια δρδσĆς για τĆν προστασασασα τοyou περιβλοντος – 320 προγροδαταια κα 20 σĆνικρρόσνισĆ",
@@ -784,7 +800,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "OE 2027: SPEA alerta que restauro de la naturaleza puede fallar por falta de personas y financiación",
@@ -800,13 +816,13 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Show de pesca 2027, aquí están las noticias. Confirmar los premios de la República de San Marino Trophy",
       "title_original": "Pescare Show 2027, ecco le novità. Confermate le premiazioni del Trofeo Repubblica di San Marino",
       "url": "https://sanmarinortv.sm/sport/altri-sport-c19/pescare-show-2027-ecco-le-novita-confermate-le-premiazioni-del-trofeo-repubblica-di-san-marino-a299118",
-      "date": "2026-11-27T04:53:00+00:00",
+      "date": "2026-11-27T16:53:00+00:00",
       "medium": "San Marino RTV",
       "country": "San Marino",
       "code": "SM",
@@ -832,7 +848,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Air Liquide Egipto fortalece la huella en la cuenca industrial de Sokhna con el inicio oficial del suministro a las plantas de vidrio de Saint-Gobain en Egipto bajo acuerdo a largo plazo",
@@ -899,20 +915,20 @@
       "period": "quincena"
     },
     {
-      "title": "Playa debe tener mil nuevas conexiones de agua y alcantarillado en 2027",
-      "title_original": "Praia deverá ter mil novas ligações de água e esgoto em 2027",
-      "url": "https://expressodasilhas.cv/politica/2026/11/27/praia-devera-ter-mil-novas-ligacoes-de-agua-e-esgoto-em-2027/105727",
-      "date": "2026-11-27T15:35:12+00:00",
+      "title": "Gobierno justifica la retirada de protección policial al fiscal Nilton Moniz con “razones de naturaleza técnica”",
+      "title_original": "Governo justifica retirada de protecção policial ao procurador Nilton Moniz com “razões de natureza técnica”",
+      "url": "https://expressodasilhas.cv/politica/2026/11/26/governo-justifica-retirada-de-proteccao-policial-ao-procurador-nilton-moniz-com-razoes-de-natureza-tecnica/105712",
+      "date": "2026-11-26T17:20:18.889000+00:00",
       "medium": "Expresso das Ilhas",
       "country": "Cabo Verde",
       "code": "CV",
       "type": "national",
       "color": "#303B5C",
       "image": "flags_news/CV.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Darboe rechaza los esfuerzos para bloquear el rallye de Boiram",
@@ -960,7 +976,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Comentario en Déficit de formación mental libra afirmación de jugadores guineanos en Europa, defiende Academia Vitalaise por Mamadú N’Bola di Bolanha",
@@ -1011,10 +1027,10 @@
       "period": "semana"
     },
     {
-      "title": "Diffa: Goudoumaria, epicentro de conflictos agropastorales, se centra en el diálogo para preservar la paz en torno a los puntos de agua",
-      "title_original": "Diffa : Goudoumaria, épicentre des conflits agro-pastoraux, mise sur le dialogue pour préserver la paix autour des points d’eau",
-      "url": "https://anp.ne/diffa-goudoumaria-epicentre-des-conflits-agro-pastoraux-mise-sur-le-dialogue-pour-preserver-la-paix-autour-des-points-deau/",
-      "date": "2026-11-25T19:37:59+00:00",
+      "title": "Diffa: 151 candidatos para las pruebas físicas del concurso de reclutamiento de 1.000 Aguas y Bosques",
+      "title_original": "Diffa : 151 candidats aux épreuves physiques du concours de recrutement de 1 000 cadres des Eaux et Forêts",
+      "url": "https://anp.ne/diffa-151-candidats-aux-epreuves-physiques-du-concours-de-recrutement-de-1-000-cadres-des-eaux-et-forets/",
+      "date": "2026-11-28T12:57:51+00:00",
       "medium": "Agence Nigérienne de Presse",
       "country": "Níger",
       "code": "NE",
@@ -1024,7 +1040,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "El Papa Leo expresa preocupación por el fracaso de las conversaciones COP31",
@@ -1043,10 +1059,10 @@
       "period": "semana"
     },
     {
-      "title": "Fuente de inestabilidad y motor de la prosperidad",
-      "title_original": "Source d’instabilité et moteur de prospérité",
-      "url": "https://lesoleil.sn/non-classe/source-dinstabilite-et-moteur-de-prosperite/",
-      "date": "2026-11-27T17:00:46+00:00",
+      "title": "AQUI Y OTROS: Fuente de inestabilidad y motor de prosperidad (por Aly DIOUF)",
+      "title_original": "ICI ET AILLEURS : source d’instabilité et moteur de prospérité (Par Aly DIOUF)",
+      "url": "https://lesoleil.sn/le-decodeur/billet/ici-et-ailleurs-source-dinstabilite-et-moteur-de-prosperite-par-aly-diouf/",
+      "date": "2026-11-28T12:29:29+00:00",
       "medium": "Le Soleil",
       "country": "Senegal",
       "code": "SN",
@@ -1075,20 +1091,20 @@
       "period": "bimestre"
     },
     {
-      "title": "Fusión de la RPM en la UDB: admisión de fragilidad",
-      "title_original": "Fusion du RPM dans l’UDB : l’aveu de fragilité",
-      "url": "https://www.gabonreview.com/fusion-du-rpm-dans-udb-aveu-de-fragilite1/",
-      "date": "2026-11-27T17:46:28+00:00",
+      "title": "Seguridad interna: Edgar Moukoumbi quiere recuperar el control de varios fenómenos en Libreville",
+      "title_original": "Sécurité intérieure : Edgar Moukoumbi veut reprendre le contrôle de plusieurs phénomènes à Libreville",
+      "url": "https://www.gabonreview.com/securite-interieure-edgar-moukoumbi-veut-reprendre-le-controle-de-plusieurs-phenomenes-a-libreville/",
+      "date": "2026-11-26T07:08:57+00:00",
       "medium": "Gabon Review",
       "country": "Gabón",
       "code": "GA",
       "type": "national",
       "color": "#EDE5D6",
       "image": "flags_news/GA.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "El Gobierno y la empresa rusa Nueva Producción de Cacao firman un acuerdo para impulsar la producción y transformación del cacao",
@@ -1120,7 +1136,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Conservación: Zonas protegidas en la República Democrática del Congo, hacia un fondo de apoyo a las víctimas y una mejor gestión de las denuncias",
@@ -1136,12 +1152,12 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Agua Grande moviliza fuerzas militares para combatir focos de basura en Santo Tomé",
       "title_original": "Água Grande mobiliza forças militares para combater focos de lixo em São Tomé",
-      "url": "https://www.telanon.info/destaques/2026/11/27/55024/agua-grande-mobiliza-forcas-militares-para-combater-focos-de-lixo-em-sao-tome/",
+      "url": "https://www.telanon.info/sociedade/2026/11/27/55024/agua-grande-mobiliza-forcas-militares-para-combater-focos-de-lixo-em-sao-tome/",
       "date": "2026-11-27T13:01:20+00:00",
       "medium": "Téla Nón",
       "country": "Santo Tomé y Príncipe",
@@ -1152,7 +1168,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Begging en Bujumbura: el desafortunado pide apoyo concreto",
@@ -1200,7 +1216,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "INNOVACIÓN - Mejora digital la vigilancia de áreas protegidas",
@@ -1219,26 +1235,26 @@
       "period": "semana"
     },
     {
-      "title": "Violado: El derecho al agua potable y limpia",
-      "title_original": "Violated: The right to safe, clean water",
-      "url": "https://mwnation.com/violated-the-right-to-safe-clean-water/",
-      "date": "2026-11-28T00:20:00+00:00",
+      "title": "FAM presenta nuevo miembro del personal de la sala trasera de Scorchers",
+      "title_original": "FAM unveils new member of Scorchers’ backroom staff",
+      "url": "https://mwnation.com/fam-unveils-new-member-of-scorchers-backroom-staff/",
+      "date": "2026-11-28T08:20:43+00:00",
       "medium": "The Nation",
       "country": "Malaui",
       "code": "MW",
       "type": "national",
       "color": "#A77D4D",
       "image": "flags_news/MW.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
       "period": "dia"
     },
     {
-      "title": "Acuerdo sobre \"Biodiversidad Más allá de la Jurisdicción Nacional\": La elección del futuro cuartel general de la Secretaría se aclara antes de la primera CP",
-      "title_original": "Accord sur la «Biodiversity Beyond National Jurisdiction» : Le choix du futur siège du Secrétariat se précise avant la première COP",
-      "url": "https://lexpress.mu/s/accord-sur-la-biodiversity-beyond-national-jurisdiction-le-choix-du-futur-siege-du-secretariat-se-precise-avant-la-premiere-cop-565182",
-      "date": "2026-11-27T17:00:00+00:00",
+      "title": "Reciclaje: INI",
+      "title_original": "Recyclage : INI’VER lance ses premiers sacs-poubelle",
+      "url": "https://lexpress.mu/s/recyclage-iniver-lance-ses-premiers-sacs-poubelle-565195",
+      "date": "2026-11-27T13:00:00+00:00",
       "medium": "L'Express",
       "country": "Mauricio",
       "code": "MU",
@@ -1248,7 +1264,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Mayores empresas mueven 614 mil millones de meticales, pero reducen el empleo",
@@ -1264,7 +1280,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Plan interior para recompensar a los ciudadanos por protección ambiental",
@@ -1283,20 +1299,20 @@
       "period": "semana"
     },
     {
-      "title": "Sudán del Sur, Sudán firma MoU en volúmenes de petróleo crudo",
-      "title_original": "South Sudan, Sudan sign MoU on crude oil volumes",
-      "url": "https://eyeradio.org/south-sudan-sudan-sign-mou-on-crude-oil-volumes/",
-      "date": "2026-11-14T11:32:01+00:00",
+      "title": "Sudán del Sur lanzará Boma-Badingilo Patrimonio de la Humanidad por la UNESCO el 12 de diciembre",
+      "title_original": "South Sudan to launch Boma-Badingilo UNESCO World Heritage Site on December 12",
+      "url": "https://eyeradio.org/south-sudan-to-launch-boma-badingilo-unesco-world-heritage-site-on-december-12/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-to-launch-boma-badingilo-unesco-world-heritage-site-on-december-12",
+      "date": "2026-11-28T09:20:53+00:00",
       "medium": "Eye Radio",
       "country": "Sudán del Sur",
       "code": "SS",
-      "type": "national",
-      "color": "#C7AD83",
-      "image": "flags_news/SS.webp",
-      "score": 2,
+      "type": "un",
+      "color": "#009EDB",
+      "image": "un_news/UNESCO.webp",
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "quincena"
+      "period": "dia"
     },
     {
       "title": "Comentario sobre De la pobreza a la prosperidad: TASAF transforma vidas, restaura la esperanza por experiencias 2",
@@ -1344,7 +1360,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "mes"
+      "period": "bimestre"
     },
     {
       "title": "Gogo &quot; S’lwane impress, ‘hired’ para diseñar el nombre del proyecto",
@@ -1392,7 +1408,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "El futuro de los drones··· 10 años de preparación, con salto de la industria de alta tecnología",
@@ -1408,7 +1424,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Población de Leopardo de Nieve de Kazajstán Casi duplica desde principios de los años 2000",
@@ -1440,23 +1456,23 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
-      "title": "El estancamiento de las conversaciones de combustible de Fossil impulsa la cumbre del clima COP31 más allá del plazo establecido",
-      "title_original": "Fossil fuel talks deadlock pushes COP31 climate summit beyond deadline",
-      "url": "https://pajhwok.com/2026/11/21/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-beyond-deadline/",
-      "date": "2026-11-21T04:42:59+00:00",
+      "title": "El Canal de Tulane es reconstruido y utilizado en Helmand.",
+      "title_original": "سربند کانال شمالان در هلمند بازسازی و به بهره‌برداری سپرده شد",
+      "url": "https://pajhwok.com/fa/2026/11/28/the-headworks-of-the-shamalan-canal-in-helmand-have-been-reconstructed-and-put-into-operation/",
+      "date": "2026-11-28T08:02:34+00:00",
       "medium": "Pajhwok Afghan News",
       "country": "Afganistán",
       "code": "AF",
-      "type": "un",
-      "color": "#009EDB",
-      "image": "un_news/UN.webp",
-      "score": 3,
+      "type": "national",
+      "color": "#244CA0",
+      "image": "flags_news/AF.webp",
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "quincena"
+      "period": "dia"
     },
     {
       "title": "Butterfly Fair en JU destaca la necesidad de conservar la biodiversidad",
@@ -1472,23 +1488,23 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
-      "title": "Reclasificación de tierras en las colinas Aravalli de Rajasthan plantea preocupaciones de conservación forestal",
-      "title_original": "Land reclassification in Rajasthan's Aravalli hills raises forest conservation concerns",
-      "url": "https://www.downtoearth.org.in/forests/land-reclassification-in-rajasthans-aravalli-hills-raises-forest-conservation-concerns",
-      "date": "2026-11-27T11:07:41+00:00",
+      "title": "Tirando el freno de emergencia en el calentamiento: En el interior de COP31 impulso de gran avance en los super contaminantes",
+      "title_original": "Pulling the emergency brake on warming: Inside COP31’s breakthrough push on super pollutants",
+      "url": "https://www.downtoearth.org.in/climate-change/pulling-the-emergency-brake-on-warming-inside-cop31s-breakthrough-push-on-super-pollutants",
+      "date": "2026-11-28T05:57:49+00:00",
       "medium": "Down To Earth",
       "country": "India",
       "code": "IN",
-      "type": "national",
-      "color": "#FF9933",
-      "image": "flags_news/IN.webp",
+      "type": "nature",
+      "color": "#4CAF50",
+      "image": null,
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Irán insta a una financiación justa e incluyente para la conservación de la biodiversidad",
@@ -1504,7 +1520,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Acuerdo firmado para un sistema solar híbrido de 150 megavatios",
@@ -1523,10 +1539,10 @@
       "period": "semana"
     },
     {
-      "title": "El Pakistán busca una cooperación más estrecha con el OIEA en materia de seguridad nuclear",
-      "title_original": "Pakistan seeks deeper cooperation with IAEA on nuclear security",
-      "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
-      "date": "2026-11-27T11:14:28+00:00",
+      "title": "Policía india dispersa protesta afuera de Meta oficinas con cañones de agua",
+      "title_original": "Indian police disperse protest outside Meta offices with water cannons",
+      "url": "https://www.dawn.com/news/2047680/indian-police-disperse-protest-outside-meta-offices-with-water-cannons",
+      "date": "2026-11-28T12:44:02+00:00",
       "medium": "Dawn",
       "country": "Pakistán",
       "code": "PK",
@@ -1539,10 +1555,10 @@
       "period": "dia"
     },
     {
-      "title": "Wild Grace – The Coffee-Table Book Casi tres décadas detrás de la lente, y un libro que mantiene el récord - Características de la actualidad",
-      "title_original": "Wild Grace– The Coffee-Table Book Nearly three decades behind the lens, and a book that keeps the record - News Features | Daily Mirror",
-      "url": "https://www.dailymirror.lk/news-features/Wild-Grace-The-Coffee-Table-Book-Nearly-three-decades-behind-the-lens-and-a-book-that-keeps-the-record/131-355835",
-      "date": "2026-11-26T22:33:20+00:00",
+      "title": "Grupos verdes marcan US$ 15.3bn en la financiación vinculada a la incineración del ADB, Sri Lanka entre los receptores - Business TEN Daily Mirror",
+      "title_original": "Green groups flag US$ 15.3bn in ADB’s incineration-linked financing, Sri Lanka among recipients - Business | Daily Mirror",
+      "url": "https://www.dailymirror.lk/business/Green-groups-flag-US-15-3bn-in-ADBs-incineration-linked-financing-Sri-Lanka-among-recipients/215-355965",
+      "date": "2026-11-28T12:49:02+00:00",
       "medium": "Daily Mirror",
       "country": "Sri Lanka",
       "code": "LK",
@@ -1552,7 +1568,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Opini: Satwa sin protección, ¿no se puede cazar sin fronteras?",
@@ -1568,23 +1584,23 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
-      "title": "VinEnergo rompe terreno en 126 MWp Proyecto de energía solar en Filipinas, promoviendo la cooperación estratégica con el Departamento de Energía",
-      "title_original": "VinEnergo Breaks Ground On 126 MWp Solar Power Project In The Philippines, Advancing Strategic Cooperation With The Department Of Energy",
-      "url": "https://laotiantimes.com/2026/11/27/vinenergo-breaks-ground-on-126-mwp-solar-power-project-in-the-philippines-advancing-strategic-cooperation-with-the-department-of-energy/",
-      "date": "2026-11-27T04:30:00+00:00",
+      "title": "Binance Pay, DK Bank and Tether Sign MOU to Expand Stablecoin Payments to Merchants Across Bhutan, Begin with USD₮",
+      "title_original": "Binance Pay, DK Bank and Tether Sign MOU to Expand Stablecoin Payments to Merchants Across Bhutan, Starting with USD₮",
+      "url": "https://laotiantimes.com/2026/11/28/binance-pay-dk-bank-and-tether-sign-mou-to-expand-stablecoin-payments-to-merchants-across-bhutan-starting-with-usd%e2%82%ae/",
+      "date": "2026-11-28T07:27:00+00:00",
       "medium": "Laotian Times",
       "country": "Laos",
       "code": "LA",
       "type": "national",
       "color": "#E8DCC3",
       "image": "flags_news/LA.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Se están realizando esfuerzos para restaurar la Pagoda y Pilares de Paz Japoneses en Sagaing Hill - Global New Light",
@@ -1648,13 +1664,13 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
-      "title": "Los gigantes de energía de China apuntan a la expansión solar y eléctrica de Azerbaiyán",
-      "title_original": "China's energy giants target Azerbaijan's solar and power grid expansion",
-      "url": "https://www.azernews.az/analysis/268113.html",
-      "date": "2026-11-26T04:30:00+00:00",
+      "title": "China, Azerbaiyán trama una nueva ruta para la electricidad verde a Europa",
+      "title_original": "China, Azerbaijan plot a new route for green electricity to Europe",
+      "url": "https://www.azernews.az/analysis/268212.html",
+      "date": "2026-11-28T04:30:00+00:00",
       "medium": "AzerNews",
       "country": "Azerbaiyán",
       "code": "AZ",
@@ -1683,10 +1699,10 @@
       "period": "semana"
     },
     {
-      "title": "Chipre pionero en la protección de tortugas da nombre al premio regional",
-      "title_original": "Cyprus turtle protection pioneer gives name to regional award",
-      "url": "https://cyprus-mail.com/2026/11/25/andreas-demetropoulos-award-for-marine-turtle-conservation",
-      "date": "2026-11-25T12:08:52+00:00",
+      "title": "Chelsea sufre tercera pérdida exitosa como Gibbs-White agarra doble para Nottingham Forest",
+      "title_original": "Chelsea suffer third successive loss as Gibbs-White grabs double for Nottingham Forest",
+      "url": "https://cyprus-mail.com/2026/11/28/chelsea-suffer-third-successive-loss-as-gibbs-white-grabs-double-for-nottingham-forest",
+      "date": "2026-11-28T13:16:43+00:00",
       "medium": "Cyprus Mail",
       "country": "Chipre",
       "code": "CY",
@@ -1696,7 +1712,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Las conversaciones climáticas colapsan sin acuerdo en Cop31 en Turquía",
@@ -1718,7 +1734,7 @@
       "title": "Ruben OSIPYAN: \"Traemos tres tipos de capital: financiero, experto y capital de red a través de la diáspora\"",
       "title_original": "Ruben OSIPYAN: \"We bring three types of capital: financial, expertise, and network capital through the diaspora\"",
       "url": "https://www.caucasianjournal.org/2026/11/ruben-osipyan-we-bring-capital.html",
-      "date": "2026-11-16T15:33:52.479000+00:00",
+      "date": "2026-11-16T15:33:52+00:00",
       "medium": "Caucasian Journal",
       "country": "Georgia",
       "code": "GE",
@@ -1744,7 +1760,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "El cambio de potencia: Cómo la energía renovable está redefiniendo el paisaje económico de Omán",
@@ -1779,10 +1795,10 @@
       "period": "semana"
     },
     {
-      "title": "Comentario sobre otro gran proyecto de renovables abandonado, ya que el consejo cambia sintonizar el plan de viento y batería por Andrew52",
-      "title_original": "Comment on Another big renewables project abandoned, as council changes tune on separate wind and battery plan by Andrew52",
+      "title": "Comentario sobre otro gran proyecto de renovables abandonado, ya que el consejo cambia sintonizar el plan de viento y batería por bssherman",
+      "title_original": "Comment on Another big renewables project abandoned, as council changes tune on separate wind and battery plan by bssherman",
       "url": "https://reneweconomy.com.au/another-big-renewables-project-abandoned-as-council-changes-tune-on-separate-wind-and-battery-plan/",
-      "date": "2026-11-27T19:31:39+00:00",
+      "date": "2026-11-28T07:27:09+00:00",
       "medium": "RenewEconomy",
       "country": "Australia",
       "code": "AU",
@@ -1795,20 +1811,20 @@
       "period": "dia"
     },
     {
-      "title": "PNG: Protegemos los pulmones del mundo – ahora nos pagan bastante para mantenerlos de pie",
-      "title_original": "PNG: We protect the world’s lungs – now pay us fairly to keep them standing",
-      "url": "https://www.postcourier.com.pg/png-we-protect-the-worlds-lungs-now-pay-us-fairly-to-keep-them-standing/",
-      "date": "2026-11-19T18:00:51+00:00",
+      "title": "Australia va a perder 2030 y 2035 objetivos climáticos",
+      "title_original": "Australia set to miss 2030 and 2035 climate targets",
+      "url": "https://www.postcourier.com.pg/australia-set-to-miss-2030-and-2035-climate-targets/",
+      "date": "2026-11-28T03:28:42+00:00",
       "medium": "Post-Courier",
       "country": "Papúa Nueva Guinea",
       "code": "PG",
       "type": "national",
       "color": "#E8B923",
       "image": "flags_news/PG.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "quincena"
+      "period": "semana"
     },
     {
       "title": "Vanuatu acoge con beneplácito la financiación de Nueva Zelandia para la nueva etapa del parque Feiawa",
@@ -1872,7 +1888,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "dia"
+      "period": "semana"
     },
     {
       "title": "Mejora de la resiliencia climática para 7 escuelas primarias en Vava'u y Ha'apai",
