@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27T19:43:09.636035+00:00",
+  "updated_at": "2026-11-28T01:52:31.172763+00:00",
   "editorial_day": "2026-11-27",
   "items": [
     {
-      "title": "Proyecto de almacenamiento de baterías gigante al lado",
-      "title_original": "The giant battery storage project next door",
+      "title": "Un proyecto gigante de almacenamiento de baterías se mueve al lado. ¿Qué haces?",
+      "title_original": "A giant battery storage project moves in next door. What do you do?",
       "url": "https://thenarwhal.ca/ottawa-battery-storage-project/?utm_source=rss",
       "date": "2026-11-26T13:00:00+00:00",
       "medium": "The Narwhal",
@@ -35,20 +35,20 @@
       "period": "semana"
     },
     {
-      "title": "Las nutrias volvieron al río más contaminado de Kuala Lumpur",
-      "title_original": "Las nutrias volvieron al río más contaminado de Kuala Lumpur",
-      "url": "https://ecoosfera.com/medio-ambiente/nutrias-pelaje-liso-rio-klang-kuala-lumpur/",
-      "date": "2026-11-24T21:30:43+00:00",
+      "title": "En el Día Nacional de la Conservación, México recuerda que ser megadiverso no es lo mismo que estar protegido",
+      "title_original": "En el Día Nacional de la Conservación, México recuerda que ser megadiverso no es lo mismo que estar protegido",
+      "url": "https://ecoosfera.com/medio-ambiente/desierto-de-los-leones-primer-parque-nacional-mexico-historia/",
+      "date": "2026-11-28T01:03:01+00:00",
       "medium": "Ecoosfera",
       "country": "México",
       "code": "MX",
       "type": "national",
       "color": "#E4007C",
       "image": "flags_news/MX.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "3,500 acres añadidos al Corredor Forestal Maya",
@@ -99,10 +99,10 @@
       "period": "trimestre"
     },
     {
-      "title": "Nicaragua impulsa cooperación deportiva con China en el marco del clasificatorio al Premier12",
-      "title_original": "Nicaragua impulsa cooperación deportiva con China en el marco del clasificatorio al Premier12",
-      "url": "https://www.canal4.com.ni/nicaragua-impulsa-cooperacion-deportiva-con-china-en-el-marco-del-clasificatorio-al-premier12/",
-      "date": "2026-11-27T17:03:28+00:00",
+      "title": "Academia Digital del INATEC certifica a 734 protagonistas en herramientas de innovación",
+      "title_original": "Academia Digital del INATEC certifica a 734 protagonistas en herramientas de innovación",
+      "url": "https://www.canal4.com.ni/academia-digital-inatec-certifica-734-protagonistas-herramientas-innovacion/",
+      "date": "2026-11-27T23:24:07+00:00",
       "medium": "Canal 4",
       "country": "Nicaragua",
       "code": "NI",
@@ -163,10 +163,10 @@
       "period": "semana"
     },
     {
-      "title": "Planes de anticipos del CDB para el fondo regional de vehículos eléctricos",
-      "title_original": "CDB advances plans for regional electric vehicle fund",
-      "url": "https://nowgrenada.com/2026/11/cdb-advances-plans-for-regional-electric-vehicle-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cdb-advances-plans-for-regional-electric-vehicle-fund",
-      "date": "2026-11-26T18:29:18+00:00",
+      "title": "Caricom podría enfrentar US$3.6 billones de factura de envío bajo reglas climáticas de la OMI",
+      "title_original": "Caricom could face US$3.6 billion shipping bill under IMO climate rules",
+      "url": "https://nowgrenada.com/2026/11/caricom-could-face-us3-6-billion-shipping-bill-under-imo-climate-rules/?utm_source=rss&utm_medium=rss&utm_campaign=caricom-could-face-us3-6-billion-shipping-bill-under-imo-climate-rules",
+      "date": "2026-11-27T20:10:09+00:00",
       "medium": "Now Grenada",
       "country": "Granada",
       "code": "GD",
@@ -176,7 +176,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Carrera por la esperanza procede a apoyar la restauración de Hope Gardens – Jamaica Gleaner",
@@ -259,17 +259,17 @@
       "period": "cuatrimestre"
     },
     {
-      "title": "Entre las áreas naturales y el asfalto, ¿qué espacio queda al bugio-ruivo?",
-      "title_original": "Entre as áreas naturais e o asfalto, que espaço resta ao bugio-ruivo?",
-      "url": "https://oeco.org.br/analises/entre-as-areas-naturais-e-o-asfalto-que-espaco-resta-ao-bugio-ruivo/",
-      "date": "2026-11-27T17:29:36+00:00",
+      "title": "Área en restauración en Brasil más que triplica en cinco años",
+      "title_original": "Área em restauração no Brasil mais que triplica em cinco anos",
+      "url": "https://oeco.org.br/noticias/area-em-restauracao-no-brasil-mais-que-triplica-em-cinco-anos/",
+      "date": "2026-11-27T20:47:36+00:00",
       "medium": "((o))eco",
       "country": "Brasil",
       "code": "BR",
       "type": "national",
       "color": "#B22222",
       "image": "flags_news/BR.webp",
-      "score": 2,
+      "score": 3,
       "title_language": "es",
       "translation_status": "translated",
       "period": "dia"
@@ -323,10 +323,10 @@
       "period": "anio"
     },
     {
-      "title": "Congreso: plantean propuesta para reconocer y proteger a las personas defensoras de derechos humanos",
-      "title_original": "Congreso: plantean propuesta para reconocer y proteger a las personas defensoras de derechos humanos",
-      "url": "https://www.actualidadambiental.pe/propuesta-reconocer-proteger-personas-defensoras-derechos-humanos/",
-      "date": "2026-11-24T22:47:25+00:00",
+      "title": "¿Titular a los invasores de tierras forestales impedirá nuevas invasiones al bosque? | Comentarios sobre el Proyecto de Ley 088-2026",
+      "title_original": "¿Titular a los invasores de tierras forestales impedirá nuevas invasiones al bosque? | Comentarios sobre el Proyecto de Ley 088-2026",
+      "url": "https://www.actualidadambiental.pe/titular-a-los-invasores-de-tierras-forestales-impedira-nuevas-invasiones-al-bosque/",
+      "date": "2026-11-27T19:39:33+00:00",
       "medium": "Actualidad Ambiental",
       "country": "Perú",
       "code": "PE",
@@ -336,7 +336,7 @@
       "score": 3,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Economista Bert Schreuders: Suriname debe ver dónde su bosque realmente desaparece y se atreve a elegir",
@@ -355,10 +355,10 @@
       "period": "semana"
     },
     {
-      "title": "Olivera sobre la instalación de HIF Global: “Uruguay tiene que dar la señal de estar a la altura de esta inversión”",
-      "title_original": "Olivera sobre la instalación de HIF Global: “Uruguay tiene que dar la señal de estar a la altura de esta inversión”",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/olivera-sobre-la-instalacion-de-hif-global-uruguay-tiene-que-dar-la-senal-de-estar-a-la-altura-de-esta-inversion/",
-      "date": "2026-11-26T17:46:01+00:00",
+      "title": "Detectaron cianobacterias en playa de Laguna del Sauce: hay bandera sanitaria",
+      "title_original": "Detectaron cianobacterias en playa de Laguna del Sauce: hay bandera sanitaria",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/11/detectaron-cianobacterias-en-playa-de-laguna-del-sauce-hay-bandera-sanitaria/",
+      "date": "2026-11-27T23:29:59+00:00",
       "medium": "La Diaria",
       "country": "Uruguay",
       "code": "UY",
@@ -368,7 +368,7 @@
       "score": 2,
       "title_language": "es",
       "translation_status": "spanish",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Venezuela ante la COP31: El dilema de Venezuela entre la adicción petrolera y la transición energética",
@@ -419,26 +419,26 @@
       "period": "semana"
     },
     {
-      "title": "La policía confiscó cientos de millones de euros de criptas de VTV, pero la crítica de la investigación del crimen financiero...",
-      "title_original": "Poliisi takavarikoi satojen miljoonien eurojen edestä kryptoja – VTV:ltä silti kritiikkiä talousrikosten tutk…",
-      "url": "https://yle.fi/a/74-20259165",
-      "date": "2026-11-26T12:58:55+00:00",
+      "title": "Al menos 14 inmigrantes murieron fuera de las Islas Canarias",
+      "title_original": "Ainakin 14 siirtolaista kuollut Kanariansaarten edustalla",
+      "url": "https://yle.fi/uutiset/lyhyesti/74-20259508",
+      "date": "2026-11-27T21:52:15+00:00",
       "medium": "Yle",
       "country": "Finlandia",
       "code": "FI",
       "type": "national",
       "color": "#003580",
       "image": "flags_news/FI.webp",
-      "score": 3,
+      "score": 2,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
-      "title": "Cork restaurante en expansión con anuncio de nuevo restaurante en Galway",
-      "title_original": "Cork restaurant expanding with announcement of new restaurant in Galway",
-      "url": "https://www.irishexaminer.com/business/companies/arid-41943399.html",
-      "date": "2026-11-27T15:35:00+00:00",
+      "title": "Revisión del restaurante: Esta excelente-valor bar de vino italiano golpea todas las notas más sabrosas",
+      "title_original": "Restaurant review: This excellent-value Italian wine bar hits all the tastiest notes",
+      "url": "https://www.irishexaminer.com/food/arid-41942769.html",
+      "date": "2026-11-27T20:00:00+00:00",
       "medium": "Irish Examiner",
       "country": "Irlanda",
       "code": "IE",
@@ -515,16 +515,16 @@
       "period": "dia"
     },
     {
-      "title": "Conferencia climática sin resolución, inviernos más cálidos perturban la hibernación, los impulsos de crisis energética se alejan de las importaciones de fósiles",
-      "title_original": "Klimakonferenz ohne Beschluss, wärmere Winter stören Winterschlaf, Energiekrise treibt Abkehr von fossilen Importen an",
-      "url": "https://klimareporter.de/international/klimakonferenz-ohne-beschluss-waermere-winter-stoeren-winterschlaf-energiekrise-treibt-abkehr-von-fossilen-importen-an",
-      "date": "2026-11-27T07:00:00+00:00",
+      "title": "Antalya no era el final",
+      "title_original": "Antalya war nicht das Ende",
+      "url": "https://klimareporter.de/international/antalya-war-nicht-das-ende",
+      "date": "2026-11-27T15:00:00+00:00",
       "medium": "Klimareporter",
       "country": "Alemania",
       "code": "DE",
-      "type": "national",
-      "color": "#003153",
-      "image": "flags_news/DE.webp",
+      "type": "un",
+      "color": "#009EDB",
+      "image": "un_news/UN.webp",
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
@@ -547,7 +547,7 @@
       "period": "bimestre"
     },
     {
-      "title": "Demy Schlechter Tribunal Escolar Tritura el Asfalto contra la Naturaleza – Infogreen",
+      "title": "Demy Schlechter Tribunal de la Escuela Tricks Asfalto contra la Naturaleza – Infogreen",
       "title_original": "La cour de l'école Demy Schlechter troque l'asphalte contre la nature – Infogreen",
       "url": "https://www.infogreen.lu/la-cour-de-l-ecole-demy-schlechter-troque-l-asphalte-contre-la-nature.html",
       "date": "2026-11-27",
@@ -851,7 +851,7 @@
       "period": "semana"
     },
     {
-      "title": "Desde la eliminación del PFAS hasta la gestión de acuíferos por AI: el proyecto europeo MAR2PROTECT revela en Bruselas sus soluciones para preservar las aguas subterráneas",
+      "title": "Desde la eliminación del PFAS hasta la gestión de los acuíferos por AI: el proyecto europeo MAR2PROTECT revela en Bruselas sus soluciones para preservar las aguas subterráneas",
       "title_original": "De l’élimination des PFAS à la gestion des aquifères par l’IA : le projet européen MAR2PROTECT dévoile à Bruxelles ses solutions pour préserver les eaux souterraines",
       "url": "https://bluetunisia.com/fr/articles/communique-de-presse",
       "date": "2026-11-23T12:28:31+00:00",
@@ -1011,7 +1011,7 @@
       "period": "semana"
     },
     {
-      "title": "Diffa: Goudoumaria, epicentro de los conflictos agropastorales, se centra en el diálogo para preservar la paz en torno a los puntos de agua",
+      "title": "Diffa: Goudoumaria, epicentro de conflictos agropastorales, se centra en el diálogo para preservar la paz en torno a los puntos de agua",
       "title_original": "Diffa : Goudoumaria, épicentre des conflits agro-pastoraux, mise sur le dialogue pour préserver la paix autour des points d’eau",
       "url": "https://anp.ne/diffa-goudoumaria-epicentre-des-conflits-agro-pastoraux-mise-sur-le-dialogue-pour-preserver-la-paix-autour-des-points-deau/",
       "date": "2026-11-25T19:37:59+00:00",
@@ -1059,7 +1059,7 @@
       "period": "dia"
     },
     {
-      "title": "Turismo santuario de chimp: los números detrás de la conservación",
+      "title": "Chimp santuario turismo: los números detrás de la conservación",
       "title_original": "Chimp sanctuary tourism: the numbers behind the conservation",
       "url": "https://awokonewspaper.sl/news/chimps-sanctuary-tourism-numbers/",
       "date": "2026-10-18",
@@ -1075,9 +1075,9 @@
       "period": "bimestre"
     },
     {
-      "title": "Fusión del RPM en el UDB: admisión de fragilidad",
+      "title": "Fusión de la RPM en la UDB: admisión de fragilidad",
       "title_original": "Fusion du RPM dans l’UDB : l’aveu de fragilité",
-      "url": "https://www.gabonreview.com/fusion-du-rpm-dans-ludb-laveu-de-fragilite/",
+      "url": "https://www.gabonreview.com/fusion-du-rpm-dans-udb-aveu-de-fragilite1/",
       "date": "2026-11-27T17:46:28+00:00",
       "medium": "Gabon Review",
       "country": "Gabón",
@@ -1123,20 +1123,20 @@
       "period": "dia"
     },
     {
-      "title": "Water Conference 2026, Ideas Abu Dhabi moviliza líderes e innovación para asegurar el futuro de los recursos hídricos",
-      "title_original": "Conférence sur l’eau 2026, Ideas Abu Dhabi mobilise leaders et l’innovation pour sécuriser l’avenir de la ressource hydrique",
-      "url": "https://environews-rdc.net/conference-sur-leau-2026-ideas-abu-dhabi-mobilise-leaders-et-linnovation-pour-securiser-lavenir-de-la-ressource-hydrique/",
-      "date": "2026-11-25T20:11:00+00:00",
+      "title": "Conservación: Zonas protegidas en la República Democrática del Congo, hacia un fondo de apoyo a las víctimas y una mejor gestión de las denuncias",
+      "title_original": "Conservation : Aires protégées en RDC, vers un fonds d’appui aux victimes et une meilleure gestion des plaintes",
+      "url": "https://environews-rdc.net/conservation-aires-protegees-en-rdc-vers-un-fonds-dappui-aux-victimes-et-une-meilleure-gestion-des-plaintes/",
+      "date": "2026-11-27T21:36:36+00:00",
       "medium": "EnviroNews RDC",
       "country": "República Democrática del Congo",
       "code": "CD",
-      "type": "nature",
-      "color": "#4CAF50",
-      "image": null,
+      "type": "national",
+      "color": "#AD492E",
+      "image": "flags_news/CD.webp",
       "score": 3,
       "title_language": "es",
       "translation_status": "translated",
-      "period": "semana"
+      "period": "dia"
     },
     {
       "title": "Agua Grande moviliza fuerzas militares para combatir focos de basura en Santo Tomé",
@@ -1171,7 +1171,7 @@
       "period": "semana"
     },
     {
-      "title": "“Ciento setenta y cinco países más tarde, Eritrea: Hegemonías derrotadas, Resiliencia silenciosa y Resuelva verde” Prof. Saleem H. Ali",
+      "title": "“Ciento setenta y cinco países más tarde, Eritrea: Hegemonías derrotadas, Resiliencia silenciosa y Resolve Verde” Prof. Saleem H. Ali",
       "title_original": "“One Hundred Seventy-five Countries Later, Eritrea: Vanquished Hegemonies, Quiet Resilience, and Green Resolve” Prof. Saleem H. Ali",
       "url": "https://shabait.com/2026/09/10/one-hundred-seventy-five-countries-later-eritrea-vanquished-hegemonies-quiet-resilience-and-green-resolve-prof-saleem-h-ali/",
       "date": "2026-09-10T15:39:13+00:00",
@@ -1219,10 +1219,10 @@
       "period": "semana"
     },
     {
-      "title": "Maiic describe el plan de recuperación de deuda de las mega granjas K55bn",
-      "title_original": "Maiic outlines K55bn mega farms debt recovery plan",
-      "url": "https://mwnation.com/maiic-outlines-k55bn-mega-farms-debt-recovery-plan/",
-      "date": "2026-11-27T07:36:43+00:00",
+      "title": "Violado: El derecho al agua potable y limpia",
+      "title_original": "Violated: The right to safe, clean water",
+      "url": "https://mwnation.com/violated-the-right-to-safe-clean-water/",
+      "date": "2026-11-28T00:20:00+00:00",
       "medium": "The Nation",
       "country": "Malaui",
       "code": "MW",
@@ -1539,7 +1539,7 @@
       "period": "dia"
     },
     {
-      "title": "Salvaje Gracia – El libro Café-Tabla Casi tres décadas detrás de la lente, y un libro que mantiene el récord - Noticias Características Silencio Daily Mirror",
+      "title": "Wild Grace – The Coffee-Table Book Casi tres décadas detrás de la lente, y un libro que mantiene el récord - Características de la actualidad",
       "title_original": "Wild Grace– The Coffee-Table Book Nearly three decades behind the lens, and a book that keeps the record - News Features | Daily Mirror",
       "url": "https://www.dailymirror.lk/news-features/Wild-Grace-The-Coffee-Table-Book-Nearly-three-decades-behind-the-lens-and-a-book-that-keeps-the-record/131-355835",
       "date": "2026-11-26T22:33:20+00:00",
@@ -1587,7 +1587,7 @@
       "period": "semana"
     },
     {
-      "title": "Se están realizando esfuerzos para restaurar la Pagoda Japonesa y los Pilares de Paz en Sagaing Hill - Global New Light",
+      "title": "Se están realizando esfuerzos para restaurar la Pagoda y Pilares de Paz Japoneses en Sagaing Hill - Global New Light",
       "title_original": "Efforts underway to restore quake-hit Japanese Pagoda and Peace Pillars on Sagaing Hill - Global New Light",
       "url": "https://www.gnlm.com.mm/efforts-underway-to-restore-quake-hit-japanese-pagoda-and-peace-pillars-on-sagaing-hill/",
       "date": "2026-07-07T12:13:08+00:00",
